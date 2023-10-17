@@ -80,7 +80,6 @@ Our group has the following research interests:
   </td>
 
   <td width=150, height=200>
-
       <div  align="center" width="100" , height=150>
        <a href="" target="_blank" class="image">
         <span class="image fit">
@@ -90,7 +89,6 @@ Our group has the following research interests:
         <h3>数字模拟人 <br> </h3>
        </a>
       </div>
-   
   </td>
   
 </tr>
