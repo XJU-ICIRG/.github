@@ -81,7 +81,7 @@ Our group has the following research interests:
 
   <td width=150, height=200>
 
-      <div  align="center" width="200" , height=150>
+      <div  align="center" width="100" , height=150>
        <a href="" target="_blank" class="image">
         <span class="image fit">
          <img src="./fig/zhu-tianheng.jpg" alt="" width=100, height=100>
