@@ -64,10 +64,10 @@ Our group has the following research interests:
 ## master
 
 ### 2023
-<table align="center" width=100% height=600px>
+<table align="center" width=100% height=800px>
 
-<tr width=300 , height=200>
-  <td>
+<tr width=300, height=200>
+  <td width=150, height=200>
       <div  align="center" width="100" , height=150>
        <a href="" target="_blank" class="image">
         <span class="image fit">
@@ -79,7 +79,7 @@ Our group has the following research interests:
       </div>
   </td>
 
-  <td>
+  <td width=150, height=200>
 
       <div  align="center" width="200" , height=150>
        <a href="" target="_blank" class="image">
@@ -95,8 +95,8 @@ Our group has the following research interests:
   
 </tr>
 
-<tr width=300 , height=200>
-  <td>
+<tr width=300, height=200>
+  <td width=150, height=200>
       <div  align="center" width="100" , height=150>
        <a href="" target="_blank" class="image">
         <span class="image fit">
@@ -108,7 +108,7 @@ Our group has the following research interests:
       </div>
   </td>
 
-  <td>
+  <td width=150, height=200>
       <div  align="center" width="100" , height=150>
        <a href="" target="_blank" class="image">
         <span class="image fit">
