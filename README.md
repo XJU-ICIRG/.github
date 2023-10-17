@@ -64,7 +64,7 @@ Our group has the following research interests:
 ## master
 
 ### 2023
-<table align="center" width="500" height="120">
+<table align="center" width=100% height=120>
 
 <tr>
   <td>
@@ -87,7 +87,7 @@ Our group has the following research interests:
          <img src="./fig/zhu-tianheng.jpg" alt="" width=100, height=100>
         </span>
         <h2>主田横 <br> </h2>
-        <h3>视听导航 <br> </h3>
+        <h3>数字模拟人 <br> </h3>
        </a>
       </div>
    
@@ -103,7 +103,7 @@ Our group has the following research interests:
          <img src="./fig/sun-shiyu.png" alt="" width=100, height=100>
         </span>
         <h2>孙世宇 <br> </h2>
-        <h3>视听导航 <br> </h3>
+        <h3>伪装目标检测 <br> </h3>
        </a>
       </div>
   </td>
@@ -115,7 +115,7 @@ Our group has the following research interests:
          <img src="./fig/zhu-tao.jpg" alt="" width=100, height=100>
         </span>
         <h2>朱涛 <br> </h2>
-        <h3>视听导航 <br> </h3>
+        <h3>语音合成 <br> </h3>
        </a>
       </div>
   </td>
