@@ -66,7 +66,7 @@ Our group has the following research interests:
 ### 2023
 <table align="center" width=100% height=400>
 
-<tr>
+<tr width=300 , height=200>
   <td>
       <div  align="center" width="100" , height=150>
        <a href="" target="_blank" class="image">
@@ -95,7 +95,7 @@ Our group has the following research interests:
   
 </tr>
 
-<tr>
+<tr width=300 , height=200>
   <td>
       <div  align="center" width="100" , height=150>
        <a href="" target="_blank" class="image">
