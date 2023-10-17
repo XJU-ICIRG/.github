@@ -64,7 +64,7 @@ Our group has the following research interests:
 ## master
 
 ### 2023
-<table align="center" width=100% height=200>
+<table align="center" width=100% height=400>
 
 <tr>
   <td>
