@@ -61,7 +61,7 @@ Our group has the following research interests:
 # Students
 ## PhD student
 
-## master
+## master student
 
 ### 2023
 <table align="center" width=100% height=800px>
