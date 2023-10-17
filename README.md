@@ -64,6 +64,10 @@ Our group has the following research interests:
 
 ### 2023
 
+![杨东升](./fig/yang-dongsheng.jpg)
+
+![主田横](./fig/zhu-tianheng.jpg)
+
 ## undergrad
 
 Contact person: Dr. Yu
