@@ -74,6 +74,7 @@ Our group has the following research interests:
          <img src="./fig/yang-dongsheng.jpg" alt="" width=100, height=100>
         </span>
         <h2>杨东升 <br> </h2>
+        <h3>视听导航 <br> </h3>
        </a>
       </div>
   </td>
@@ -86,6 +87,7 @@ Our group has the following research interests:
          <img src="./fig/zhu-tianheng.jpg" alt="" width=100, height=100>
         </span>
         <h2>主田横 <br> </h2>
+        <h3>视听导航 <br> </h3>
        </a>
       </div>
    
@@ -101,6 +103,7 @@ Our group has the following research interests:
          <img src="./fig/sun-shiyu.png" alt="" width=100, height=100>
         </span>
         <h2>孙世宇 <br> </h2>
+        <h3>视听导航 <br> </h3>
        </a>
       </div>
   </td>
@@ -112,6 +115,7 @@ Our group has the following research interests:
          <img src="./fig/zhu-tao.jpg" alt="" width=100, height=100>
         </span>
         <h2>朱涛 <br> </h2>
+        <h3>视听导航 <br> </h3>
        </a>
       </div>
   </td>
