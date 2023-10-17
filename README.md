@@ -68,6 +68,11 @@ Our group has the following research interests:
 
 ![主田横](./fig/zhu-tianheng.jpg)
 
+![孙世宇](./fig/sun-shiyu.png)
+
+![朱涛](./fig/zhu-tao.jpg)
+
+
 ## undergrad
 
 Contact person: Dr. Yu
