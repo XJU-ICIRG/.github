@@ -64,11 +64,11 @@ Our group has the following research interests:
 ## master
 
 ### 2023
-<table align="center" width=100% height=120>
+<table align="center" width=100% height=200>
 
 <tr>
   <td>
-      <div  align="center" width="100" >
+      <div  align="center" width="100" , height=150>
        <a href="" target="_blank" class="image">
         <span class="image fit">
          <img src="./fig/yang-dongsheng.jpg" alt="" width=100, height=100>
@@ -81,7 +81,7 @@ Our group has the following research interests:
 
   <td>
 
-      <div  align="center" width="100" >
+      <div  align="center" width="200" , height=150>
        <a href="" target="_blank" class="image">
         <span class="image fit">
          <img src="./fig/zhu-tianheng.jpg" alt="" width=100, height=100>
@@ -97,7 +97,7 @@ Our group has the following research interests:
 
 <tr>
   <td>
-      <div  align="center" width="100" >
+      <div  align="center" width="100" , height=150>
        <a href="" target="_blank" class="image">
         <span class="image fit">
          <img src="./fig/sun-shiyu.png" alt="" width=100, height=100>
@@ -109,7 +109,7 @@ Our group has the following research interests:
   </td>
 
   <td>
-      <div  align="center" width="100" >
+      <div  align="center" width="100" , height=150>
        <a href="" target="_blank" class="image">
         <span class="image fit">
          <img src="./fig/zhu-tao.jpg" alt="" width=100, height=100>
