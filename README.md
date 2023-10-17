@@ -1,3 +1,4 @@
+
 # Team introduction (研究组简介）
 We are the Intelligent Control and Interaction Research Group of the School of Computer Science and Technology of Xinjiang University, abbreviated as XJU-ICIRG. The research objects of our group are sound, vision, etc., with the goal of realizing intelligent control and interaction. 
 
@@ -63,14 +64,47 @@ Our group has the following research interests:
 ## master
 
 ### 2023
+<div class="row uniform" align="center">
+      <div class="3u 12u$(small)">
+       <a href="" target="_blank" class="image">
+        <span class="image fit">
+         <img src="./fig/yang-dongsheng.jpg" alt="">
+        </span>
+        <h2>杨东升 <br> </h2>
+       </a>
+      </div>
 
-![杨东升](./fig/yang-dongsheng.jpg)
+       <div class="3u 12u$(small)">
+       <a href="" target="_blank" class="image">
+        <span class="image fit">
+         <img src="./fig/zhu-tianheng.jpg" alt="">
+        </span>
+        <h2>主田横 <br> </h2>
+       </a>
+      </div>
 
-![主田横](./fig/zhu-tianheng.jpg)
+            <div class="3u 12u$(small)">
+       <a href="" target="_blank" class="image">
+        <span class="image fit">
+         <img src="./fig/sun-shiyu.png" alt="">
+        </span>
+        <h2>孙世宇 <br> </h2>
+       </a>
+      </div>
 
-![孙世宇](./fig/sun-shiyu.png)
+            <div class="3u 12u$(small)">
+       <a href="" target="_blank" class="image">
+        <span class="image fit">
+         <img src="./fig/zhu-tao.jpg" alt="">
+        </span>
+        <h2>朱涛 <br> </h2>
+       </a>
+      </div>
+</div>
 
-![朱涛](./fig/zhu-tao.jpg)
+
+
+
 
 
 ## undergrad
