@@ -39,7 +39,7 @@ Conference, Year. [[Paper]](link) [[Code]](link) [[Website]](link)
 
 * **Conventional and contemporary approaches used in text to speech synthesis: a review** <br>
 Navdeep Kaur, Parminder Singh* <br>
-Artificial Intelligence Review, 2023. [[Paper]](https://link.springer.com/article/10.1007/s10462-022-10315-0) [[Code]](link) [[Website]](link)
+Artificial Intelligence Review, 2023. [[Paper]](link) [[Code]](link) [[Website]](link)
 
 ### <a name="DigitalSimulators"></a> DigitalSimulators
 * **Human-Computer Interaction System: A Survey of Talking-Head Generation** <br>
