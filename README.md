@@ -128,6 +128,10 @@ Our group has the following research interests:
 
 ## undergrad
 
+# Paper Reading (文献阅读)
+
+ [文献阅读](GroupReading.md)
+
 # Contact with us
 
 Contact person: Dr. Yu
