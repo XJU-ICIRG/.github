@@ -43,7 +43,7 @@ Conference, Year. [[Paper]](link) [[Code]](link) [[Website]](link)
 
 ### <a name="DigitalSimulators"></a> DigitalSimulators
 * **Human-Computer Interaction System: A Survey of Talking-Head Generation** <br>
-*Rui Zhen , Wenchao Song , Qiang He , Juan Cao , Lei Shi , and Jia Luo 3* <br>
+Rui Zhen, Wenchao Song, Qiang He, Juan Cao, Lei Shi, and Jia Luo 3* <br>
 Electronics, 2023. [[https://www.mdpi.com/2079-9292/12/1/218#]](link) [[Code]](link) [[Website]](link)
 
 ### <a name="CamouflagedObjectDetection"></a> CamouflagedObjectDetection
