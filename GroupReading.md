@@ -44,6 +44,9 @@ Conference, Year. [[Paper]](link) [[Code]](link) [[Website]](link)
 ### <a name="DigitalSimulators"></a> DigitalSimulators
 
 ### <a name="CamouflagedObjectDetection"></a> CamouflagedObjectDetection
+* **基于深度学习的伪装目标检测综述** <br>
+史彩娟* <br>
+计算机科学与探索, 2022. [[Paper]]([link](https://kns.cnki.net/kcms2/article/abstract?v=A67obWUfw0nswfYHU_6Zo5l3OYdPWzdjdPl10a0fAj2wN8W1udVTIVyA0WQrwECBOF1wjFFLFL519N4peh0EOWMUNLfaA1XeZ20o1IMWd6zDKAaiQ5mR6DFA58x7OqL-myH1NyS8wLSZ2IwHWJ1uNQ==&uniplatform=NZKPT&language=CHS)) [[Code]](link) [[Website]](link)
 
 ### <a name="MultitemporalRemoteSensingImageChangeDetection"></a> MultitemporalRemoteSensingImageChangeDetection
 
