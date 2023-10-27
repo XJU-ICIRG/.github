@@ -37,6 +37,10 @@ Conference, Year. [[Paper]](link) [[Code]](link) [[Website]](link)
 
 ### <a name="SpeechSynthesis"></a> SpeechSynthesis
 
+* **Paper Title** <br>
+*Author(s)* <br>
+Conference, Year. [[Paper]](link) [[Code]](link) [[Website]](link)
+
 ### <a name="DigitalSimulators"></a> DigitalSimulators
 
 ### <a name="CamouflagedObjectDetection"></a> CamouflagedObjectDetection
