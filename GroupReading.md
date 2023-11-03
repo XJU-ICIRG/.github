@@ -45,6 +45,9 @@ Artificial Intelligence Review, 2023. [[Paper]](link) [[Code]](link) [[Website]]
 * **Human-Computer Interaction System: A Survey of Talking-Head Generation** <br>
 Rui Zhen, Wenchao Song, Qiang He, Juan Cao, Lei Shi, and Jia Luo 3* <br>
 Electronics, 2023. [[Paper]](https://www.mdpi.com/2079-9292/12/1/218#) [[Code]](link) [[Website]](link)
+* **AD-NeRF: Audio Driven Neural Radiance Fields for Talking Head Synthesis** <br>
+Yudong Guo， Keyu Chen，Sen Liang， Yong-Jin Liu， Hujun Bao， Juyong Zhang* <br>
+ICCV, 2021. [[Paper]](https://openaccess.thecvf.com/content/ICCV2021/html/Guo_AD-NeRF_Audio_Driven_Neural_Radiance_Fields_for_Talking_Head_Synthesis_ICCV_2021_paper.html) [[Code]](link) [[Website]](link)
 
 ### <a name="CamouflagedObjectDetection"></a> CamouflagedObjectDetection
 * **基于深度学习的伪装目标检测综述** <br>
