@@ -58,6 +58,9 @@ ICCV, 2021. [[Paper]](https://openaccess.thecvf.com/content/ICCV2021/html/Guo_AD
 * **多时相遥感影像的变化检测研究现状与展望** <br>
 张祖勋１,姜慧伟２,庞世燕３,胡翔云１,４ * <br>
 测绘学报,2022,51(7):1091G1107． [[Paper]](link) [[Code]](link) [[Website]](link)
+* **Nearest Neighbor-Based Contrastive Learning for Hyperspectral and LiDAR Data Classification** <br>
+Meng Wang , Feng Gao , Member, IEEE, Junyu Dong , Member, IEEE,Heng-Chao Li , Senior Member, IEEE, and Qian Du , Fellow, IEEE * <br>
+IEEE TRANSACTIONS ON GEOSCIENCE AND REMOTE SENSING, VOL. 61, 2023. [[Paper]](link) [[Code]](link) [[Website]](link)
 
 ### <a name="AudioVisualNavigation"></a> AudioVisualNavigation
 
