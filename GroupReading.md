@@ -39,8 +39,10 @@ Conference, Year. [[Paper]](link) [[Code]](link) [[Website]](link)
 
 * **Conventional and contemporary approaches used in text to speech synthesis: a review** <br>
 Navdeep Kaur, Parminder Singh* <br>
-Artificial Intelligence Review, 2023. [[Paper]](link) [[Code]](link) [[Website]](link)
-
+Artificial Intelligence Review, 2023. [[Paper]](https://link.springer.com/article/10.1007/s10462-022-10315-0) [[Code]](link) [[Website]](link)
+* **Pronunciation Dictionary-Free Multilingual Speech Synthesis Using Learned Phonetic Representations** <br>
+Chang Liu, Zhen-Hua Ling, Ling-Hui Chen* <br>
+IEEE/ACM Transactions on Audio, Speech, and Language Processing, 2023. [[Paper]](https://ieeexplore.ieee.org/abstract/document/10244053) [[Code]](link) [[Website]](link)
 ### <a name="DigitalSimulators"></a> DigitalSimulators
 * **Human-Computer Interaction System: A Survey of Talking-Head Generation** <br>
 Rui Zhen, Wenchao Song, Qiang He, Juan Cao, Lei Shi, and Jia Luo 3* <br>
