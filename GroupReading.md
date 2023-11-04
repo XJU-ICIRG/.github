@@ -60,7 +60,7 @@ ICCV, 2021. [[Paper]](https://openaccess.thecvf.com/content/ICCV2021/html/Guo_AD
 测绘学报,2022,51(7):1091G1107． [[Paper]](link) [[Code]](link) [[Website]](link)
 * **Nearest Neighbor-Based Contrastive Learning for Hyperspectral and LiDAR Data Classification** <br>
 Meng Wang , Feng Gao , Member, IEEE, Junyu Dong , Member, IEEE,Heng-Chao Li , Senior Member, IEEE, and Qian Du , Fellow, IEEE * <br>
-IEEE TRANSACTIONS ON GEOSCIENCE AND REMOTE SENSING, VOL. 61, 2023. [[Paper]](link) [[Code]](link) [[Website]](link)
+IEEE TRANSACTIONS ON GEOSCIENCE AND REMOTE SENSING, VOL. 61, 2023. [[Paper]](https://ieeexplore.ieee.org/abstract/document/10015054https://ieeexplore.ieee.org/abstract/document/10015054) [[Code]](link) [[Website]](link)
 
 ### <a name="AudioVisualNavigation"></a> AudioVisualNavigation
 
