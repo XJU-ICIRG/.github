@@ -54,7 +54,7 @@ ICCV, 2021. [[Paper]](https://openaccess.thecvf.com/content/ICCV2021/html/Guo_AD
 ### <a name="CamouflagedObjectDetection"></a> CamouflagedObjectDetection
 * **基于深度学习的伪装目标检测综述** <br>
 史彩娟* <br>
-计算机科学与探索, 2022. [[Paper]](link) [[Code]](link) [[Website]](link)
+计算机科学与探索, 2022. [[Paper]](https://kns.cnki.net/kcms2/article/abstract?v=-93ivAxQXRq5oFqggHKDnWSybKsWWYymtoYgWGtAgi8nuGXcuG_uLXR_jAGSOkCI5n0UBVIxmQAj4FiKtjWPTVWIsd_moByOY-sG_6zTz1-wVF4Lxzcdtrur9sXK7JC_rFN2HzpMXA8xJln6d_ulHXSR9Aw9e87R&uniplatform=NZKPT&language=CHS) [[Code]](link) [[Website]](link)
 
 * **基于注意力机制和多尺度特征的伪装目标检测** <br>
 *蔡俊敏，孙 涵* <br>
