@@ -50,6 +50,9 @@ Electronics, 2023. [[Paper]](https://www.mdpi.com/2079-9292/12/1/218#) [[Code]](
 * **AD-NeRF: Audio Driven Neural Radiance Fields for Talking Head Synthesis** <br>
 Yudong Guo， Keyu Chen，Sen Liang， Yong-Jin Liu， Hujun Bao， Juyong Zhang* <br>
 ICCV, 2021. [[Paper]](https://openaccess.thecvf.com/content/ICCV2021/html/Guo_AD-NeRF_Audio_Driven_Neural_Radiance_Fields_for_Talking_Head_Synthesis_ICCV_2021_paper.html) [[Code]](link) [[Website]](link)
+* **NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis** <br>
+Ben Mildenhall, Pratul P. Srinivasan, Matthew Tancik, Jonathan T. Barron, Ravi Ramamoorthi, Ren Ng* <br>
+  ECCV, 2020. [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3503250) [[Code]](link) [[Website]](link)
 
 ### <a name="CamouflagedObjectDetection"></a> CamouflagedObjectDetection
 * **基于深度学习的伪装目标检测综述** <br>
