@@ -66,6 +66,10 @@ Ben Mildenhall, Pratul P. Srinivasan, Matthew Tancik, Jonathan T. Barron, Ravi R
 *蔡俊敏，孙 涵* <br>
 计算机技术与发展, 2023. [[Paper]](https://kns.cnki.net/kcms2/article/abstract?v=-93ivAxQXRpT2QPc-xcT3BxvTjoVB26B3X1-Ra6R5qt3g_MrAffEr1D92NFkxjYTqAirYXmTacegFTJi54AuM_mEqRDUh4Vg8JqdxxtdxKMZTZ04VDh2Zkw5ZhPsu0HSvGhcnupM1ufdsOkoUykOnlDWq72DdpB9&uniplatform=NZKPT&language=CHS)[[Code]](link) [[Website]](link)
 
+* **基于通道注意力和边缘融合的伪装目标分割方法** <br>
+*詹春兰, 王安志, 王明辉* <br>
+Conference, Year. [[Paper]](https://kns.cnki.net/kcms2/article/abstract?v=5DzVwdTmeh9B5fYZyoWQfjxSc1CkQEEnLUuex-zlak4DYGbjTa9XKiNv9gOcIfGm2KJVbvWZkdYlCXbZ4gBYlrfJDEvCVgvFg3F6LVQgQh7uILm_zK9e5OlEMXUj6qbP6Rc69gbL8VS6pTRZS-Kkrg==&uniplatform=NZKPT&language=CHS) [[Code]](link) [[Website]](link)
+
 ### <a name="MultitemporalRemoteSensingImageChangeDetection"></a> MultitemporalRemoteSensingImageChangeDetection
 * **多时相遥感影像的变化检测研究现状与展望** <br>
 张祖勋１,姜慧伟２,庞世燕３,胡翔云１,４ * <br>
