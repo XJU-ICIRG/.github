@@ -68,7 +68,7 @@ Ben Mildenhall, Pratul P. Srinivasan, Matthew Tancik, Jonathan T. Barron, Ravi R
 
 * **基于通道注意力和边缘融合的伪装目标分割方法** <br>
 *詹春兰, 王安志, 王明辉* <br>
-Conference, Year. [[Paper]](https://kns.cnki.net/kcms2/article/abstract?v=5DzVwdTmeh9B5fYZyoWQfjxSc1CkQEEnLUuex-zlak4DYGbjTa9XKiNv9gOcIfGm2KJVbvWZkdYlCXbZ4gBYlrfJDEvCVgvFg3F6LVQgQh7uILm_zK9e5OlEMXUj6qbP6Rc69gbL8VS6pTRZS-Kkrg==&uniplatform=NZKPT&language=CHS) [[Code]](link) [[Website]](link)
+计算机应用, 2023. [[Paper]](https://kns.cnki.net/kcms2/article/abstract?v=5DzVwdTmeh9B5fYZyoWQfjxSc1CkQEEnLUuex-zlak4DYGbjTa9XKiNv9gOcIfGm2KJVbvWZkdYlCXbZ4gBYlrfJDEvCVgvFg3F6LVQgQh7uILm_zK9e5OlEMXUj6qbP6Rc69gbL8VS6pTRZS-Kkrg==&uniplatform=NZKPT&language=CHS) [[Code]](link) [[Website]](link)
 
 ### <a name="MultitemporalRemoteSensingImageChangeDetection"></a> MultitemporalRemoteSensingImageChangeDetection
 * **多时相遥感影像的变化检测研究现状与展望** <br>
