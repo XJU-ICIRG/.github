@@ -51,7 +51,7 @@ Proceedings of the 30th ACM International Conference on Multimedia, 2022. [[Pape
 ### <a name="DigitalSimulators"></a> DigitalSimulators
 
 [awesome-talking-head-generation](https://github.com/harlanhong/awesome-talking-head-generation)
-
+<br>
 [PaperWithCodes-Talking Head Generation](https://paperswithcode.com/task/talking-head-generation)
 
 * **Human-Computer Interaction System: A Survey of Talking-Head Generation** <br>
