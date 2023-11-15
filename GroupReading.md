@@ -58,6 +58,9 @@ Ben Mildenhall, Pratul P. Srinivasan, Matthew Tancik, Jonathan T. Barron, Ravi R
   ECCV, 2020. [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3503250) [[Code]](link) [[Website]](link)
 
 ### <a name="CamouflagedObjectDetection"></a> CamouflagedObjectDetection
+
+[github 上的总结的库](https://github.com/visionxiang/awesome-camouflaged-object-detection)
+
 * **基于深度学习的伪装目标检测综述** <br>
 史彩娟* <br>
 计算机科学与探索, 2022. [[Paper]](https://kns.cnki.net/kcms2/article/abstract?v=-93ivAxQXRq5oFqggHKDnWSybKsWWYymtoYgWGtAgi8nuGXcuG_uLXR_jAGSOkCI5n0UBVIxmQAj4FiKtjWPTVWIsd_moByOY-sG_6zTz1-wVF4Lxzcdtrur9sXK7JC_rFN2HzpMXA8xJln6d_ulHXSR9Aw9e87R&uniplatform=NZKPT&language=CHS) [[Code]](link) [[Website]](link)
