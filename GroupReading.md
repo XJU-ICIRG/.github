@@ -46,7 +46,13 @@ IEEE/ACM Transactions on Audio, Speech, and Language Processing, 2023. [[Paper]]
 * **ProDiff: Progressive fast diffusion model for high-quality text-to-speech** <br>
 Rongjie Huang, Zhou Zhao, Huadai Liu, Jinglin Liu, Chenye Cui, Yi Ren* <br>
 Proceedings of the 30th ACM International Conference on Multimedia, 2022. [[Paper]](https://dl.acm.org/doi/abs/10.1145/3503161.3547855) [[Code]](link) [[Website]](link)
+
+
 ### <a name="DigitalSimulators"></a> DigitalSimulators
+
+[awesome-talking-head-generation](https://github.com/harlanhong/awesome-talking-head-generation)
+[PaperWithCodes-Talking Head Generation](https://paperswithcode.com/task/talking-head-generation)
+
 * **Human-Computer Interaction System: A Survey of Talking-Head Generation** <br>
 Rui Zhen, Wenchao Song, Qiang He, Juan Cao, Lei Shi, and Jia Luo 3* <br>
 Electronics, 2023. [[Paper]](https://www.mdpi.com/2079-9292/12/1/218#) [[Code]](link) [[Website]](link)
