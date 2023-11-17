@@ -80,6 +80,10 @@ Ben Mildenhall, Pratul P. Srinivasan, Matthew Tancik, Jonathan T. Barron, Ravi R
 *詹春兰, 王安志, 王明辉* <br>
 计算机应用, 2023. [[Paper]](https://kns.cnki.net/kcms2/article/abstract?v=5DzVwdTmeh9B5fYZyoWQfjxSc1CkQEEnLUuex-zlak4DYGbjTa9XKiNv9gOcIfGm2KJVbvWZkdYlCXbZ4gBYlrfJDEvCVgvFg3F6LVQgQh7uILm_zK9e5OlEMXUj6qbP6Rc69gbL8VS6pTRZS-Kkrg==&uniplatform=NZKPT&language=CHS) [[Code]](link) [[Website]](link)
 
+* **OSFormer: One-Stage Camouflaged Instance Segmentation with Transformers** <br>
+*Jialun Pei, Tianyang Cheng, Deng-Ping Fan, He Tang, Chuanbo Chen, Luc Van Gool* <br>
+ECCV, 2022. [[Paper]](https://arxiv.org/abs/2207.02255) [[Code]](link) [[Website]](link)
+
 ### <a name="MultitemporalRemoteSensingImageChangeDetection"></a> MultitemporalRemoteSensingImageChangeDetection
 * **多时相遥感影像的变化检测研究现状与展望** <br>
 张祖勋１,姜慧伟２,庞世燕３,胡翔云１,４ * <br>
