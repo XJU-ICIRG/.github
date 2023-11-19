@@ -63,6 +63,9 @@ ICCV, 2021. [[Paper]](https://openaccess.thecvf.com/content/ICCV2021/html/Guo_AD
 * **NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis** <br>
 Ben Mildenhall, Pratul P. Srinivasan, Matthew Tancik, Jonathan T. Barron, Ravi Ramamoorthi, Ren Ng* <br>
   ECCV, 2020. [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3503250) [[Code]](link) [[Website]](link)
+* **Semantic-Aware Implicit Neural Audio-Driven Video Portrait Generation** <br>
+Xian Liu, Yinghao Xu, Qianyi Wu, Hang Zhou, Wayne Wu, Bolei Zhou* <br>
+  CCF B, 2022. [[Paper]](https://arxiv.org/pdf/2201.07786.pdf) [[Code]](link) [[Website]](link)
 
 ### <a name="CamouflagedObjectDetection"></a> CamouflagedObjectDetection
 
