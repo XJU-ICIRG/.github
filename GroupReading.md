@@ -46,7 +46,9 @@ IEEE/ACM Transactions on Audio, Speech, and Language Processing, 2023. [[Paper]]
 * **ProDiff: Progressive fast diffusion model for high-quality text-to-speech** <br>
 Rongjie Huang, Zhou Zhao, Huadai Liu, Jinglin Liu, Chenye Cui, Yi Ren* <br>
 Proceedings of the 30th ACM International Conference on Multimedia, 2022. [[Paper]](https://dl.acm.org/doi/abs/10.1145/3503161.3547855) [[Code]](link) [[Website]](link)
-
+* **Towards Zero-Shot Multi-Speaker Multi-Accent Text-to-Speech Synthesis** <br>
+*Mingyang Zhang, Xuehao Zhou, Zhizheng Wu, Haizhou Li* <br>
+ IEEE Signal Processing Letters, 2023. [[Paper]]([link](https://ieeexplore.ieee.org/abstract/document/10173587)) [[Code]](link) [[Website]](link)
 
 ### <a name="DigitalSimulators"></a> DigitalSimulators
 
