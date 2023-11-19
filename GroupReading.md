@@ -100,6 +100,9 @@ IEEE TRANSACTIONS ON GEOSCIENCE AND REMOTE SENSING, VOL. 61, 2023. [[Paper]](htt
   Lin Qi, Zhenwei Chen , Feng Gao , Member, IEEE, Junyu Dong , Member, IEEE,
 Xinbo Gao , Senior Member, IEEE, and Qian Du , Fellow, IEEE* <br>
 IEEE TRANSACTIONS ON GEOSCIENCE AND REMOTE SENSING, VOL. 61, 2023. [[Paper]](https://ieeexplore.ieee.org/abstract/document/10018370) [[Code]](link) [[Website]](link)
+* **Change Detection From Synthetic Aperture Radar Images via Graph-Based Knowledge Supplement Network** <br>
+*Junjie Wang , Feng Gao , Member, IEEE, Junyu Dong , Member, IEEE, Shan Zhang,and Qian Du , Fellow, IEEE* <br>
+IEEE JOURNAL OF SELECTED TOPICS IN APPLIED EARTH OBSERVATIONS AND REMOTE SENSING, VOL. 15, 2022. [[Paper]](https://ieeexplore.ieee.org/abstract/document/9699382/) [[Code]](link) [[Website]](link)
 
 ### <a name="AudioVisualNavigation"></a> AudioVisualNavigation
 
