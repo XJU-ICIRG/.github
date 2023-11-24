@@ -89,6 +89,10 @@ Xian Liu, Yinghao Xu, Qianyi Wu, Hang Zhou, Wayne Wu, Bolei Zhou* <br>
 *Jialun Pei, Tianyang Cheng, Deng-Ping Fan, He Tang, Chuanbo Chen, Luc Van Gool* <br>
 ECCV, 2022. [[Paper]](https://arxiv.org/abs/2207.02255) [[Code]](https://github.com/PJLallen/OSFormer) [[Website]](link)
 
+* **FSNet: Focus Scanning Network for Camouflaged Object Detection** <br>
+*Ze Song, Xudong Kang, Xiaohui Wei, Haibo Liu, Renwei Dian, Shutao Li* <br>
+IEEE Transactions on Image Processing, 2023. [[Paper]](https://ieeexplore.ieee.org/document/10103836) [[Code]](https://github.com/SongZeHNU/FSNet) [[Website]](link)
+
 ### <a name="MultitemporalRemoteSensingImageChangeDetection"></a> MultitemporalRemoteSensingImageChangeDetection
 * **多时相遥感影像的变化检测研究现状与展望** <br>
 张祖勋１,姜慧伟２,庞世燕３,胡翔云１,４ * <br>
