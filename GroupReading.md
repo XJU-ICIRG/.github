@@ -49,6 +49,10 @@ Proceedings of the 30th ACM International Conference on Multimedia, 2022. [[Pape
 * **Towards Zero-Shot Multi-Speaker Multi-Accent Text-to-Speech Synthesis** <br>
 *Mingyang Zhang, Xuehao Zhou, Zhizheng Wu, Haizhou Li* <br>
  IEEE Signal Processing Letters, 2023. [[Paper]](https://ieeexplore.ieee.org/abstract/document/10173587) [[Code]](link) [[Website]](link)
+* **Emotionally Situated Text-to-Speech Synthesis in User-Agent Conversation** <br>
+*Yuchen Liu, Haoyu Zhang, Shichao Liu, Xiang Yin, Zejun Ma* <br>
+Proceedings of the 31st ACM International Conference on Multimedia., 2023. [[Paper]](https://dl.acm.org/doi/abs/10.1145/3581783.3613823) [[Code]](link) [[Website]](link)
+
 
 ### <a name="DigitalSimulators"></a> DigitalSimulators
 
