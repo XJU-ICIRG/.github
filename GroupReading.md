@@ -68,7 +68,7 @@ ICCV, 2021. [[Paper]](https://openaccess.thecvf.com/content/ICCV2021/html/Guo_AD
 * **Semantic-Aware Implicit Neural Audio-Driven Video Portrait Generation** <br>
 Xian Liu, Yinghao Xu, Qianyi Wu, Hang Zhou, Wayne Wu, Bolei Zhou* <br>
   CCF B, 2022. [[Paper]](https://arxiv.org/pdf/2201.07786.pdf) [[Code]](link) [[Website]](link)
-  * **Real-time neural radiance talking portrait synthesis via audio-spatial decomposition** <br>
+* **Real-time neural radiance talking portrait synthesis via audio-spatial decomposition** <br>
 Tang J, Wang K, Zhou H, et al* <br>
   arXiv, 2022. [[Paper]](https://arxiv.org/pdf/2211.12368.pdf) [[Code]](link) [[Website]](link)
 
