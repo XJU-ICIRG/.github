@@ -59,15 +59,18 @@ Proceedings of the 30th ACM International Conference on Multimedia, 2022. [[Pape
 * **Human-Computer Interaction System: A Survey of Talking-Head Generation** <br>
 Rui Zhen, Wenchao Song, Qiang He, Juan Cao, Lei Shi, and Jia Luo 3* <br>
 Electronics, 2023. [[Paper]](https://www.mdpi.com/2079-9292/12/1/218#) [[Code]](link) [[Website]](link)
-* **AD-NeRF: Audio Driven Neural Radiance Fields for Talking Head Synthesis** <br>
-Yudong Guo， Keyu Chen，Sen Liang， Yong-Jin Liu， Hujun Bao， Juyong Zhang* <br>
-ICCV, 2021. [[Paper]](https://openaccess.thecvf.com/content/ICCV2021/html/Guo_AD-NeRF_Audio_Driven_Neural_Radiance_Fields_for_Talking_Head_Synthesis_ICCV_2021_paper.html) [[Code]](link) [[Website]](link)
 * **NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis** <br>
 Ben Mildenhall, Pratul P. Srinivasan, Matthew Tancik, Jonathan T. Barron, Ravi Ramamoorthi, Ren Ng* <br>
   ECCV, 2020. [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3503250) [[Code]](link) [[Website]](link)
+* **AD-NeRF: Audio Driven Neural Radiance Fields for Talking Head Synthesis** <br>
+Yudong Guo， Keyu Chen，Sen Liang， Yong-Jin Liu， Hujun Bao， Juyong Zhang* <br>
+ICCV, 2021. [[Paper]](https://openaccess.thecvf.com/content/ICCV2021/html/Guo_AD-NeRF_Audio_Driven_Neural_Radiance_Fields_for_Talking_Head_Synthesis_ICCV_2021_paper.html) [[Code]](link) [[Website]](link)
 * **Semantic-Aware Implicit Neural Audio-Driven Video Portrait Generation** <br>
 Xian Liu, Yinghao Xu, Qianyi Wu, Hang Zhou, Wayne Wu, Bolei Zhou* <br>
   CCF B, 2022. [[Paper]](https://arxiv.org/pdf/2201.07786.pdf) [[Code]](link) [[Website]](link)
+  * **Real-time neural radiance talking portrait synthesis via audio-spatial decomposition** <br>
+Tang J, Wang K, Zhou H, et al* <br>
+  arXiv, 2022. [[Paper]](https://arxiv.org/pdf/2211.12368.pdf) [[Code]](link) [[Website]](link)
 
 ### <a name="CamouflagedObjectDetection"></a> CamouflagedObjectDetection
 
