@@ -114,6 +114,9 @@ IEEE TRANSACTIONS ON GEOSCIENCE AND REMOTE SENSING, VOL. 61, 2023. [[Paper]](htt
 * **Change Detection From Synthetic Aperture Radar Images via Graph-Based Knowledge Supplement Network** <br>
 *Junjie Wang , Feng Gao , Member, IEEE, Junyu Dong , Member, IEEE, Shan Zhang,and Qian Du , Fellow, IEEE* <br>
 IEEE JOURNAL OF SELECTED TOPICS IN APPLIED EARTH OBSERVATIONS AND REMOTE SENSING, VOL. 15, 2022. [[Paper]](https://ieeexplore.ieee.org/abstract/document/9699382/) [[Code]](link) [[Website]](link)
+* **Change Detection From Synthetic Aperture Radar Images via Dual Path Denoising Network** <br>
+  Junjie Wang , Feng Gao , Member, IEEE, Junyu Dong , Member, IEEE, Qian Du , Fellow, IEEE, and Heng-Chao Li , Senior Member, IEEE* <br>
+  IEEE JOURNAL OF SELECTED TOPICS IN APPLIED EARTH OBSERVATIONS AND REMOTE SENSING, VOL. 15, 2022. [[Paper]](link) [[Code]](link) [[Website]](link)
 
 ### <a name="AudioVisualNavigation"></a> AudioVisualNavigation
 
