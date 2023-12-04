@@ -52,7 +52,9 @@ Proceedings of the 30th ACM International Conference on Multimedia, 2022. [[Pape
 * **Emotionally Situated Text-to-Speech Synthesis in User-Agent Conversation** <br>
 *Yuchen Liu, Haoyu Zhang, Shichao Liu, Xiang Yin, Zejun Ma* <br>
 Proceedings of the 31st ACM International Conference on Multimedia., 2023. [[Paper]](https://dl.acm.org/doi/abs/10.1145/3581783.3613823) [[Code]](link) [[Website]](link)
-
+* **Grad-tts: A diffusion probabilistic model for text-to-speech** <br>
+*Vadim Popov, Ivan Vovk, Vladimir Gogoryan, Tasnima Sadekova, Mikhail Kudinov* <br>
+Proceedings of the 38th International Conference on Machine Learning, 2021. [[Paper]](https://proceedings.mlr.press/v139/popov21a.html) [[Code]](link) [[Website]](link)
 
 ### <a name="DigitalSimulators"></a> DigitalSimulators
 
