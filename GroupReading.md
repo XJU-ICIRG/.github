@@ -103,6 +103,10 @@ ECCV, 2022. [[Paper]](https://arxiv.org/abs/2207.02255) [[Code]](https://github.
 *Ze Song, Xudong Kang, Xiaohui Wei, Haibo Liu, Renwei Dian, Shutao Li* <br>
 IEEE Transactions on Image Processing, 2023. [[Paper]](https://ieeexplore.ieee.org/document/10103836) [[Code]](https://github.com/SongZeHNU/FSNet) [[Website]](link)
 
+* **Feature Shrinkage Pyramid for Camouflaged Object Detection** <br>
+*Zhou Huang, Hang Dai, Tian-Zhu Xiang, Shuo Wang, Huai-Xin Chen, Jie Qin, Huan Xiong* <br>
+CVPR, 2023. [[Paper]](https://arxiv.org/abs/2303.14816) [[Code]](https://github.com/ZhouHuang23/FSPNet) [[Website]](link)
+
 ### <a name="MultitemporalRemoteSensingImageChangeDetection"></a> MultitemporalRemoteSensingImageChangeDetection
 * **多时相遥感影像的变化检测研究现状与展望** <br>
 张祖勋１,姜慧伟２,庞世燕３,胡翔云１,４ * <br>
