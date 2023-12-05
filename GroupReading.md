@@ -126,9 +126,9 @@ IEEE JOURNAL OF SELECTED TOPICS IN APPLIED EARTH OBSERVATIONS AND REMOTE SENSING
 * **Change Detection From Synthetic Aperture Radar Images via Dual Path Denoising Network** <br>
   Junjie Wang , Feng Gao , Member, IEEE, Junyu Dong , Member, IEEE, Qian Du , Fellow, IEEE, and Heng-Chao Li , Senior Member, IEEE* <br>
   IEEE JOURNAL OF SELECTED TOPICS IN APPLIED EARTH OBSERVATIONS AND REMOTE SENSING, VOL. 15, 2022. [[Paper]](https://ieeexplore.ieee.org/abstract/document/9699382) [[Code]](link) [[Website]](link)
-  * **Adapting Segment Anything Model for Change Detection in VHR Remote Sensing Images** <br>
-*Lei Ding, Kun Zhu, Daifeng Peng, Hao Tang, Kuiwu Yang and Lorenzo Bruzzone, Fellow, IEEE* <br>
-arXiv:2309.01429v3 [cs.CV] 16 Oct 2023. [[Paper]](https://arxiv.org/abs/2309.01429) [[Code]](link) [[Website]](link)
+* **Adapting Segment Anything Model for Change Detection in VHR Remote Sensing Images** <br>
+  Lei Ding, Kun Zhu, Daifeng Peng, Hao Tang, Kuiwu Yang and Lorenzo Bruzzone, Fellow, IEEE* <br>
+  arXiv:2309.01429v3 [cs.CV] 16 Oct 2023. [[Paper]](https://arxiv.org/abs/2309.01429) [[Code]](link) [[Website]](link)
 
 ### <a name="AudioVisualNavigation"></a> AudioVisualNavigation
 
