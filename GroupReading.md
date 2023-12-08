@@ -110,6 +110,8 @@ IEEE Transactions on Image Processing, 2023. [[Paper]](https://ieeexplore.ieee.o
 CVPR, 2023. [[Paper]](https://arxiv.org/abs/2303.14816) [[Code]](https://github.com/ZhouHuang23/FSPNet) [[Website]](link)
 
 ### <a name="MultitemporalRemoteSensingImageChangeDetection"></a> MultitemporalRemoteSensingImageChangeDetection
+[github 上的总结的库](https://github.com/wenhwu/awesome-remote-sensing-change-detection)
+
 * **多时相遥感影像的变化检测研究现状与展望** <br>
 张祖勋１,姜慧伟２,庞世燕３,胡翔云１,４ * <br>
 测绘学报,2022,51(7):1091G1107． [[Paper]](https://www.proquest.com/openview/0f4ddf294a1e677342fe4c899817e233/1?pq-origsite=gscholar&cbl=5229093) [[Code]](link) [[Website]](link)
@@ -129,6 +131,11 @@ IEEE JOURNAL OF SELECTED TOPICS IN APPLIED EARTH OBSERVATIONS AND REMOTE SENSING
 * **Adapting Segment Anything Model for Change Detection in VHR Remote Sensing Images** <br>
   Lei Ding, Kun Zhu, Daifeng Peng, Hao Tang, Kuiwu Yang and Lorenzo Bruzzone, Fellow, IEEE* <br>
   arXiv:2309.01429v3 [cs.CV] 16 Oct 2023. [[Paper]](https://arxiv.org/abs/2309.01429) [[Code]](link) [[Website]](link)
+
+* **Lightweight Remote Sensing Change Detection With Progressive Feature Aggregation and Supervised Attention** <br>
+  Zhenglai Li , Chang Tang , Member, IEEE, Xinwang Liu , Senior Member, IEEE,Wei Zhang , Member, IEEE, Jie Dou, Lizhe Wang , Fellow, IEEE,and Albert Y. Zomaya , 
+  Fellow, IEEE <br>
+  IEEE TRANSACTIONS ON GEOSCIENCE AND REMOTE SENSING, VOL. 61, 2023. [[Paper]](https://ieeexplore.ieee.org/abstract/document/10034814) [[Code]](link) [[Website]](link)
 
 ### <a name="AudioVisualNavigation"></a> AudioVisualNavigation
 
