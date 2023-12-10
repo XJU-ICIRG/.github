@@ -55,6 +55,9 @@ Proceedings of the 31st ACM International Conference on Multimedia., 2023. [[Pap
 * **Grad-tts: A diffusion probabilistic model for text-to-speech** <br>
 *Vadim Popov, Ivan Vovk, Vladimir Gogoryan, Tasnima Sadekova, Mikhail Kudinov* <br>
 Proceedings of the 38th International Conference on Machine Learning, 2021. [[Paper]](https://proceedings.mlr.press/v139/popov21a.html) [[Code]](link) [[Website]](link)
+* **LightGrad: Lightweight Diffusion Probabilistic Model for Text-to-Speech** <br>
+*Jie Chen, Xingchen Song, Zhendong Peng, Binbin Zhang, Fuping Pan, Zhiyong Wu* <br>
+ICASSP, 2023. [[Paper]](https://ieeexplore.ieee.org/abstract/document/10096710) [[Code]](link) [[Website]](link)
 
 ### <a name="DigitalSimulators"></a> DigitalSimulators
 
