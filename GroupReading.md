@@ -80,6 +80,9 @@ Tang J, Wang K, Zhou H, et al* <br>
 * **Efficient Region-Aware Neural Radiance Fields for High-Fidelity Talking Portrait Synthesis** <br>
 Li J, Zhang J, Bai X, et al.* <br>
    IEEE/CVF, 2023. [[Paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Li_Efficient_Region-Aware_Neural_Radiance_Fields_for_High-Fidelity_Talking_Portrait_Synthesis_ICCV_2023_paper.pdf) [[Code]](link) [[Website]](link)
+* **Audio-driven talking-head video generation with diffusion model** <br>
+Zhua Y, Zhanga C, Liub Q, et al.* <br>
+   IEEE/ICASSP, 2023. [[Paper]](https://ieeexplore.ieee.org/abstract/document/10094937) [[Code]](link) [[Website]](link)
 
 ### <a name="CamouflagedObjectDetection"></a> CamouflagedObjectDetection
 
