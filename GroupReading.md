@@ -115,6 +115,10 @@ IEEE Transactions on Image Processing, 2023. [[Paper]](https://ieeexplore.ieee.o
 *Zhou Huang, Hang Dai, Tian-Zhu Xiang, Shuo Wang, Huai-Xin Chen, Jie Qin, Huan Xiong* <br>
 CVPR, 2023. [[Paper]](https://arxiv.org/abs/2303.14816) [[Code]](https://github.com/ZhouHuang23/FSPNet) [[Website]](link)
 
+* **Locate, Refine and Restore: A Progressive Enhancement Network for Camouflaged Object Detection** <br>
+*Xiaofei Li, Jiaxin Yang, Shuohao Li, Jun Lei, Jun Zhang, Dong Chen* <br>
+IJCAI, 2023. [[Paper]](https://www.ijcai.org/proceedings/2023/124) [[Code]](link) [[Website]](link)
+
 ### <a name="MultitemporalRemoteSensingImageChangeDetection"></a> MultitemporalRemoteSensingImageChangeDetection
 [github 上的总结的库](https://github.com/wenhwu/awesome-remote-sensing-change-detection)
 
