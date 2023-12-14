@@ -86,6 +86,9 @@ Li J, Zhang J, Bai X, et al.* <br>
 * **Audio-driven talking-head video generation with diffusion model** <br>
 Zhua Y, Zhanga C, Liub Q, et al.* <br>
    IEEE/ICASSP, 2023. [[Paper]](https://ieeexplore.ieee.org/abstract/document/10094937) [[Code]](link) [[Website]](link)
+* **DiffTalk: Crafting Diffusion Models for Generalized Audio-Driven Portraits Animation** <br>
+Shen S, Zhao W, Meng Z, et al.* <br>
+   IEEE/CVF, 2023. [[Paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Shen_DiffTalk_Crafting_Diffusion_Models_for_Generalized_Audio-Driven_Portraits_Animation_CVPR_2023_paper.pdf) [[Code]](link) [[Website]](link)
 
 ### <a name="CamouflagedObjectDetection"></a> CamouflagedObjectDetection
 
