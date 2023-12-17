@@ -58,6 +58,10 @@ Proceedings of the 38th International Conference on Machine Learning, 2021. [[Pa
 * **LightGrad: Lightweight Diffusion Probabilistic Model for Text-to-Speech** <br>
 *Jie Chen, Xingchen Song, Zhendong Peng, Binbin Zhang, Fuping Pan, Zhiyong Wu* <br>
 ICASSP, 2023. [[Paper]](https://ieeexplore.ieee.org/abstract/document/10096710) [[Code]](link) [[Website]](link)
+* **DiffVoice: Text-to-Speech with Latent Diffusion** <br>
+*Zhijun Liu， Yiwei Guo， Kai Yu* <br>
+ ICASSP,2023. [[Paper]](https://ieeexplore.ieee.org/abstract/document/10095100) [[Code]](link) [[Website]](link)
+
 
 ### <a name="DigitalSimulators"></a> DigitalSimulators
 
