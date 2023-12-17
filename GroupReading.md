@@ -169,6 +169,7 @@ IEEE JOURNAL OF SELECTED TOPICS IN APPLIED EARTH OBSERVATIONS AND REMOTE SENSING
 [github 上的awesome-embodied-vision](https://github.com/ChanganVR/awesome-embodied-vision)
 <br>
 [github 上的awesome-audio-visual](https://github.com/krantiparida/awesome-audio-visual)
+<br>
 
 ### <a name="VisualLanguageNavigation"></a> VisualLanguageNavigation
 
