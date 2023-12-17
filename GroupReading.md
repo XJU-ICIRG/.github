@@ -166,8 +166,9 @@ IEEE JOURNAL OF SELECTED TOPICS IN APPLIED EARTH OBSERVATIONS AND REMOTE SENSING
   IEEE TRANSACTIONS ON GEOSCIENCE AND REMOTE SENSING, VOL. 61, 2023. [[Paper]](link) [[Code]](link) [[Website]](link)
 
 ### <a name="AudioVisualNavigation"></a> AudioVisualNavigation
-[github 上的总结的库](https://github.com/ChanganVR/awesome-embodied-vision)
-[github 上的总结的库](https://github.com/krantiparida/awesome-audio-visual)
+[github 上的awesome-embodied-vision](https://github.com/ChanganVR/awesome-embodied-vision)
+<br>
+[github 上的awesome-audio-visual](https://github.com/krantiparida/awesome-audio-visual)
 
 ### <a name="VisualLanguageNavigation"></a> VisualLanguageNavigation
 
