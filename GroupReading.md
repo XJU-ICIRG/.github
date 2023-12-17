@@ -61,7 +61,9 @@ ICASSP, 2023. [[Paper]](https://ieeexplore.ieee.org/abstract/document/10096710) 
 
 ### <a name="DigitalSimulators"></a> DigitalSimulators
 
-[awesome-talking-head-generation](https://github.com/harlanhong/awesome-talking-head-generation)
+[awesome-talking-head-generation-HKUST](https://github.com/harlanhong/awesome-talking-head-generation)
+<br>
+[awesome-talking-head-generation-SZU](https://github.com/Kedreamix/Awesome-Talking-Head-Synthesis)
 <br>
 [PaperWithCodes-Talking Head Generation](https://paperswithcode.com/task/talking-head-generation)
 
