@@ -126,7 +126,12 @@ CVPR, 2023. [[Paper]](https://arxiv.org/abs/2303.14816) [[Code]](https://github.
 
 * **Locate, Refine and Restore: A Progressive Enhancement Network for Camouflaged Object Detection** <br>
 *Xiaofei Li, Jiaxin Yang, Shuohao Li, Jun Lei, Jun Zhang, Dong Chen* <br>
-IJCAI, 2023. [[Paper]](https://www.ijcai.org/proceedings/2023/124) [[Code]](link) [[Website]](link)
+IJCAI, 2023. [[Paper]](https://www.ijcai.org/proceedings/2023/124) [[Code]][(link)](https://github.
+com/ChunmingHe/FEDER) [[Website]](link)
+
+* **Camouflaged Object Detection with Feature Decomposition and Edge Reconstruction** <br>
+*Chunming He, Kai Li, Yachao Zhang, Longxiang Tang, Yulun Zhang, Zhenhua Guo, Xiu Li* <br>
+CVPR, 2023. [[Paper]](https://openaccess.thecvf.com/content/CVPR2023/html/He_Camouflaged_Object_Detection_With_Feature_Decomposition_and_Edge_Reconstruction_CVPR_2023_paper.html) [[Code]](https://github.com/ChunmingHe/FEDER) [[Website]](link)
 
 ### <a name="MultitemporalRemoteSensingImageChangeDetection"></a> MultitemporalRemoteSensingImageChangeDetection
 [github 上的总结的库](https://github.com/wenhwu/awesome-remote-sensing-change-detection)
