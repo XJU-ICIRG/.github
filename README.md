@@ -74,7 +74,7 @@ Our group has the following research interests:
          <img src="./fig/yang-dongsheng.jpg" alt="" width=100, height=100>
         </span>
         <h2>杨东升 <br> </h2>
-        <h3>多时相遥感影像变化检测 <br> </h3>
+        <h3>视听导航 <br> </h3>
        </a>
       </div>
   </td>
@@ -101,7 +101,7 @@ Our group has the following research interests:
          <img src="./fig/sun-shiyu.png" alt="" width=100, height=100>
         </span>
         <h2>孙世宇 <br> </h2>
-        <h3>伪装目标检测 <br> </h3>
+        <h3>视听导航 <br> </h3>
        </a>
       </div>
   </td>
