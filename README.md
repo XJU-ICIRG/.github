@@ -1,8 +1,10 @@
 
-# Team introduction (研究组简介）
-We are the Intelligent Control and Interaction Research Group of the School of Computer Science and Technology of Xinjiang University, abbreviated as ICIG. The research objects of our group are sound, vision, etc., with the goal of realizing intelligent control and interaction. 
+# Group introduction (研究组简介）
+We are the Intelligent Control and Interaction Group of the Multimodal Information Perception and Security Laboratory of the School of Computer Science and Technology of Xinjiang University, abbreviated as ICIG.
 
-我们是新疆大学计算机科学与技术学院的智能控制与交互研究小组，缩写为ICIG。
+我们是新疆大学计算机科学与技术学院多模态信息感知与安全实验室智能控制与交互小组，缩写为ICIG。
+
+多模态信息感知与安全实验室（Multi-modal Information Perception and Security Laboratory，MIPS Lab）主页：xxxx。
 
 # Resarch interests （研究兴趣）
 Our group has the following research interests:
