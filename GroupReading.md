@@ -95,6 +95,12 @@ Zhua Y, Zhanga C, Liub Q, et al.* <br>
 * **DiffTalk: Crafting Diffusion Models for Generalized Audio-Driven Portraits Animation** <br>
 Shen S, Zhao W, Meng Z, et al.* <br>
    IEEE/CVF, 2023. [[Paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Shen_DiffTalk_Crafting_Diffusion_Models_for_Generalized_Audio-Driven_Portraits_Animation_CVPR_2023_paper.pdf) [[Code]](link) [[Website]](link)
+  * **Audio-driven Talking Head Generation with Transformer and 3D Morphable Model** <br>
+Huang R, Zhong W, Li G.* <br>
+   ACM International Conference on Multimedia, 2022. [[Paper]](https://dl.acm.org/doi/abs/10.1145/3503161.3551574) [[Code]](link) [[Website]](link)
+* **A Lip Sync Expert Is All You Need for Speech to Lip Generation In the Wild** <br>
+Prajwal K R, Mukhopadhyay R, Namboodiri V P, et al* <br>
+   ACM International Conference on Multimedia, 2020. [[Paper]](https://arxiv.org/pdf/2008.10010.pdf?) [[Code]](link) [[Website]](link)
 
 ### <a name="CamouflagedObjectDetection"></a> CamouflagedObjectDetection
 
