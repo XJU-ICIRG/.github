@@ -60,8 +60,10 @@ Proceedings of the 38th International Conference on Machine Learning, 2021. [[Pa
 ICASSP, 2023. [[Paper]](https://ieeexplore.ieee.org/abstract/document/10096710) [[Code]](link) [[Website]](link)
 * **DiffVoice: Text-to-Speech with Latent Diffusion** <br>
 *Zhijun Liu， Yiwei Guo， Kai Yu* <br>
- ICASSP,2023. [[Paper]](https://ieeexplore.ieee.org/abstract/document/10095100) [[Code]](link) [[Website]](link)
-
+ICASSP, 2023. [[Paper]](https://ieeexplore.ieee.org/abstract/document/10095100) [[Code]](link) [[Website]](link)
+* **Grad-StyleSpeech: Any-Speaker Adaptive Text-to-Speech Synthesis with Diffusion Models** <br>
+*Minki Kang，Dongchan Min，Sung Ju Hwang* <br>
+ICASSP, 2023. [[Paper]](https://ieeexplore.ieee.org/abstract/document/10095515) [[Code]](link) [[Website]](link)
 
 ### <a name="DigitalSimulators"></a> DigitalSimulators
 
