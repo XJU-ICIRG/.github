@@ -178,6 +178,13 @@ IEEE JOURNAL OF SELECTED TOPICS IN APPLIED EARTH OBSERVATIONS AND REMOTE SENSING
 <br>
 [github 上的awesome-audio-visual](https://github.com/krantiparida/awesome-audio-visual)
 <br>
+* **Egocentric Audio-Visual Object Localization** <br>
+*Chao Huang, Yapeng Tian, Anurag Kumar, Chenliang Xu* <br>
+CVPR, 2023. [[Paper]](https://arxiv.org/pdf/2303.13471.pdf) [[Code]](https://github.com/WikiChao/Ego-AV-Loc) [[Website]](link)
+
+* **Curriculum Audiovisual Learning** <br>
+*Hu, D, Wang, Z, Xiong, H, Wang, D, Nie, F, Dou, D* <br>
+Conference, Year. [[Paper]](https://arxiv.org/pdf/2001.09414.pdf) [[Code]](link) [[Website]](link)
 
 ### <a name="VisualLanguageNavigation"></a> VisualLanguageNavigation
 
