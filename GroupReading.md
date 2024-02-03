@@ -184,7 +184,7 @@ CVPR, 2023. [[Paper]](https://arxiv.org/pdf/2303.13471.pdf) [[Code]](https://git
 
 * **Curriculum Audiovisual Learning** <br>
 *Hu, D, Wang, Z, Xiong, H, Wang, D, Nie, F, Dou, D* <br>
-Conference, Year. [[Paper]](https://arxiv.org/pdf/2001.09414.pdf) [[Code]](link) [[Website]](link)
+CVPR, 2020. [[Paper]](https://arxiv.org/pdf/2001.09414.pdf) [[Code]](link) [[Website]](link)
 
 ### <a name="VisualLanguageNavigation"></a> VisualLanguageNavigation
 
