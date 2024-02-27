@@ -182,9 +182,17 @@ IEEE JOURNAL OF SELECTED TOPICS IN APPLIED EARTH OBSERVATIONS AND REMOTE SENSING
 *Chao Huang, Yapeng Tian, Anurag Kumar, Chenliang Xu* <br>
 CVPR, 2023. [[Paper]](https://arxiv.org/pdf/2303.13471.pdf) [[Code]](https://github.com/WikiChao/Ego-AV-Loc) [[Website]](link)
 
+* **Look, Listen, and Act: Towards Audio-Visual Embodied Navigation** <br>
+*Chuang Gan Yiwei Zhang Jiajun Wu3 Boqing Gong Joshua B. Tenenbaum <br>
+ICRA, 2020. [[Paper]](https://ieeexplore.ieee.org/abstract/document/9197008/) [[Code]](link) [[Website]](link)
+
 * **Curriculum Audiovisual Learning** <br>
 *Hu, D, Wang, Z, Xiong, H, Wang, D, Nie, F, Dou, D* <br>
 CVPR, 2020. [[Paper]](https://arxiv.org/pdf/2001.09414.pdf) [[Code]](link) [[Website]](link)
+
+* **LEARNING TO SET WAYPOINTS FOR AUDIO-VISUAL NAVIGATION** <br>
+*Changan Chen Sagnik Majumder Ziad Al-Halah Ruohan Gao Santhosh K. Ramakrishnan Kristen Grauman <br>
+ICLR，2021. [[Paper]](https://arxiv.org/pdf/2008.09622.pdf) [[Code]](link) [[Website]](link)
 
 ### <a name="VisualLanguageNavigation"></a> VisualLanguageNavigation
 
