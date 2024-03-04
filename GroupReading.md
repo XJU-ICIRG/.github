@@ -194,6 +194,10 @@ CVPR, 2020. [[Paper]](https://arxiv.org/pdf/2001.09414.pdf) [[Code]](link) [[Web
 *Changan Chen Sagnik Majumder Ziad Al-Halah Ruohan Gao Santhosh K. Ramakrishnan Kristen Grauman <br>
 ICLR，2021. [[Paper]](https://arxiv.org/pdf/2008.09622.pdf) [[Code]](link) [[Website]](link)
 
+* **Co-Separating Sounds of Visual Objects** <br>
+*Ruohan Gao，Kristen Grauman* <br>
+CVPR, 2019. [[Paper]](https://readpaper.com/pdf-annotate/note?pdfId=4544535137244307457&noteId=2166788697184407296) [[Code]](link) [[Website]](link)
+
 ### <a name="VisualLanguageNavigation"></a> VisualLanguageNavigation
 
 ### <a name="DualArmRobotOperation"></a> DualArmRobotOperation
