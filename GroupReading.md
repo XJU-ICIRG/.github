@@ -103,6 +103,9 @@ Huang R, Zhong W, Li G.* <br>
 * **A Lip Sync Expert Is All You Need for Speech to Lip Generation In the Wild** <br>
 Prajwal K R, Mukhopadhyay R, Namboodiri V P, et al* <br>
    ACM International Conference on Multimedia, 2020. [[Paper]](https://arxiv.org/pdf/2008.10010.pdf?) [[Code]](link) [[Website]](link)
+  * **NeRF-AD: Neural Radiance Field with Attention-based Disentanglement for Talking Face Synthesis** <br>
+Bi C, Liu X, Liu Z.* <br>
+   arXiv, 2024. [[Paper]](https://arxiv.org/pdf/2401.12568.pdf) [[Code]](link) [[Website]](link)
 
 ### <a name="CamouflagedObjectDetection"></a> CamouflagedObjectDetection
 
