@@ -203,7 +203,7 @@ CVPR, 2019. [[Paper]](https://readpaper.com/pdf-annotate/note?pdfId=454453513724
 
 * **VISUALVOICE: Audio-Visual Speech Separation with Cross-Modal Consistency** <br>
 *Ruohan Gao，Kristen Grauman* <br>
-CVPR, 2021. [[Paper](https://arxiv.org/pdf/2101.03149.pdf) [[Code]](http://vision. cs.utexas.edu/projects/VisualVoice) [[Website]](link)
+CVPR, 2021. [[Paper]](https://arxiv.org/pdf/2101.03149.pdf) [[Code]](http://vision.cs.utexas.edu/projects/VisualVoice) [[Website]](link)
 
 ### <a name="VisualLanguageNavigation"></a> VisualLanguageNavigation
 
