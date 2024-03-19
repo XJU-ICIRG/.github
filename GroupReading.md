@@ -64,6 +64,12 @@ ICASSP, 2023. [[Paper]](https://ieeexplore.ieee.org/abstract/document/10095100) 
 * **Grad-StyleSpeech: Any-Speaker Adaptive Text-to-Speech Synthesis with Diffusion Models** <br>
 *Minki Kang，Dongchan Min，Sung Ju Hwang* <br>
 ICASSP, 2023. [[Paper]](https://ieeexplore.ieee.org/abstract/document/10095515) [[Code]](link) [[Website]](link)
+* **Prompttts: Controllable text-to-speech with text descriptions** <br>
+*Zhifang Guo，Yichong Leng，Yihan Wu，Sheng Zhao，Xu Tan* <br>
+ICASSP, 2023. [[Paper]](https://ieeexplore.ieee.org/abstract/document/10096285) [[Code]](link) [[Website]](link)
+* **Conditional variational autoencoder with adversarial learning for end-to-end text-to-speech** <br>
+*Jaehyeon Kim, Jungil Kong, Juhee Son* <br>
+International Conference on Machine Learning, 2021. [[Paper]](https://proceedings.mlr.press/v139/kim21f.html) [[Code]](link) [[Website]](link)
 
 ### <a name="DigitalSimulators"></a> DigitalSimulators
 
