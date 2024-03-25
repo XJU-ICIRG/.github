@@ -112,6 +112,13 @@ Prajwal K R, Mukhopadhyay R, Namboodiri V P, et al* <br>
 * **NeRF-AD: Neural Radiance Field with Attention-based Disentanglement for Talking Face Synthesis** <br>
 Bi C, Liu X, Liu Z.* <br>
    arXiv, 2024. [[Paper]](https://arxiv.org/pdf/2401.12568.pdf) [[Code]](link) [[Website]](link)
+* **Geneface: Generalized and high-fidelity audio-driven 3d talking face synthesis** <br>
+Ye Z, Jiang Z, Ren Y, et al.* <br>
+   ICLR, 2023. [[Paper]](https://arxiv.org/pdf/2301.13430.pdf) [[Code]](https://github.com/yerfor/GeneFace?tab=readme-ov-file) [[Website]](link)
+* **Geneface++: Generalized and stable real-time audio-driven 3d talking face generation** <br>
+Ye Z, He J, Jiang Z, et al.* <br>
+   arXiv, 2024. [[Paper]](https://arxiv.org/pdf/2301.13430.pdf) [[Code]](https://github.com/yerfor/GeneFacePlusPlus/) [[Website]](link)
+
 
 ### <a name="CamouflagedObjectDetection"></a> CamouflagedObjectDetection
 
