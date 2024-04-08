@@ -70,6 +70,26 @@ ICASSP, 2023. [[Paper]](https://ieeexplore.ieee.org/abstract/document/10096285) 
 * **Conditional variational autoencoder with adversarial learning for end-to-end text-to-speech** <br>
 *Jaehyeon Kim, Jungil Kong, Juhee Son* <br>
 International Conference on Machine Learning, 2021. [[Paper]](https://proceedings.mlr.press/v139/kim21f.html) [[Code]](link) [[Website]](link)
+* **Qi-tts: Questioning intonation control for emotional speech synthesis** <br>
+*Haobin Tang，Xulong Zhang，Jianzong Wang，Ning Cheng，Jing Xiao* <br>
+ICASSP, 2023. [[Paper]](https://ieeexplore.ieee.org/document/10095623) [[Code]](link) [[Website]](link)
+* **SponTTS: modeling and transferring spontaneous style for TTS** <br>
+*Hanzhao Li，Xinfa Zhu，Liumeng Xue，Yang Song，Yunlin Chen，Lei Xie* <br>
+ICASSP, 2024. [[Paper]](https://ieeexplore.ieee.org/abstract/document/10445828) [[Code]](link) [[Website]](link)
+* **Naturalspeech: End-to-end text-to-speech synthesis with human-level quality** <br>
+*Xu Tan，Jiawei Chen，Haohe Liu，Jian Cong，Chen Zhang，Yanqing Liu，Xi Wang，Yichong Leng，Yuanhao Yi，Lei He，Sheng Zhao* <br>
+IEEE Transactions on Pattern Analysis and Machine Intelligence, 2024. [[Paper]](https://ieeexplore.ieee.org/abstract/document/10409539) [[Code]](link) [[Website]](link)
+* **NSV-TTS: Non-Speech Vocalization Modeling And Transfer In Emotional Text-To-Speech** <br>
+*Haitong Zhang，Xinyuan Yu，Yue Lin* <br>
+ICASSP, 2023. [[Paper]](https://ieeexplore.ieee.org/abstract/document/10096033) [[Code]](link) [[Website]](link)
+* **PromptTTS++: Controlling Speaker Identity in Prompt-Based Text-to-Speech Using Natural Language Descriptions** <br>
+*Reo Shimizu，Ryuichi Yamamoto，Masaya Kawamura，Yuma Shirahata，Hironori Doi，Tatsuya Komatsu，Kentaro Tachibana* <br>
+ICASSP, 2024. [[Paper]](https://ieeexplore.ieee.org/abstract/document/10448173) [[Code]](link) [[Website]](link)
+* **Prosody-Aware Speecht5 for Expressive Neural TTS** <br>
+*Yan Deng，Long Zhou，Yuanhao Yi，Shujie Liu，Lei He* <br>
+ICASSP, 2023. [[Paper]](https://ieeexplore.ieee.org/abstract/document/10096530) [[Code]](link) [[Website]](link)
+
+
 
 ### <a name="DigitalSimulators"></a> DigitalSimulators
 
