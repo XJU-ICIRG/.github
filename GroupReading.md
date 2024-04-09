@@ -138,6 +138,19 @@ Ye Z, Jiang Z, Ren Y, et al.* <br>
 * **Geneface++: Generalized and stable real-time audio-driven 3d talking face generation** <br>
 Ye Z, He J, Jiang Z, et al.* <br>
    arXiv, 2024. [[Paper]](https://arxiv.org/pdf/2301.13430.pdf) [[Code]](https://github.com/yerfor/GeneFacePlusPlus/) [[Website]](link)
+* **Facediffuser: Speech-driven 3d facial animation synthesis using diffusion** <br>
+Stan S, Haque K I, Yumak Z.* <br>
+  ACM SIGGRAPH MIG, 2023. [[Paper]](https://dl.acm.org/doi/abs/10.1145/3623264.3624447) [[Code]](https://github.com/uuembodiedsocialai/FaceDiffuser) [[Website]](link)
+* **SyncTalk: The Devil is in the Synchronization for Talking Head Synthesis** <br>
+Peng Z, Hu W, Shi Y, et al.* <br>
+   CVPR, 2024. [[Paper]](https://arxiv.org/abs/2311.17590) [[Code]](https://github.com/ZiqiaoPeng/SyncTalk) [[Website]](https://ziqiaopeng.github.io/synctalk/)
+* **Geneface++: Generalized and stable real-time audio-driven 3d talking face generation** <br>
+Ye Z, He J, Jiang Z, et al.* <br>
+   arXiv, 2024. [[Paper]](https://arxiv.org/pdf/2301.13430.pdf) [[Code]](https://github.com/yerfor/GeneFacePlusPlus/) [[Website]](link)
+* **Geneface++: Generalized and stable real-time audio-driven 3d talking face generation** <br>
+Ye Z, He J, Jiang Z, et al.* <br>
+   arXiv, 2024. [[Paper]](https://arxiv.org/pdf/2301.13430.pdf) [[Code]](https://github.com/yerfor/GeneFacePlusPlus/) [[Website]](link)
+
 
 
 ### <a name="CamouflagedObjectDetection"></a> CamouflagedObjectDetection
