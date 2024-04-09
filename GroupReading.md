@@ -144,12 +144,12 @@ Stan S, Haque K I, Yumak Z.* <br>
 * **SyncTalk: The Devil is in the Synchronization for Talking Head Synthesis** <br>
 Peng Z, Hu W, Shi Y, et al.* <br>
    CVPR, 2024. [[Paper]](https://arxiv.org/abs/2311.17590) [[Code]](https://github.com/ZiqiaoPeng/SyncTalk) [[Website]](https://ziqiaopeng.github.io/synctalk/)
-* **Geneface++: Generalized and stable real-time audio-driven 3d talking face generation** <br>
-Ye Z, He J, Jiang Z, et al.* <br>
-   arXiv, 2024. [[Paper]](https://arxiv.org/pdf/2301.13430.pdf) [[Code]](https://github.com/yerfor/GeneFacePlusPlus/) [[Website]](link)
-* **Geneface++: Generalized and stable real-time audio-driven 3d talking face generation** <br>
-Ye Z, He J, Jiang Z, et al.* <br>
-   arXiv, 2024. [[Paper]](https://arxiv.org/pdf/2301.13430.pdf) [[Code]](https://github.com/yerfor/GeneFacePlusPlus/) [[Website]](link)
+* **DT-NeRF: Decomposed Triplane-Hash Neural Radiance Fields For High-Fidelity Talking Portrait Synthesis** <br>
+Su Y, Wang S, Wang H.* <br>
+   ICASSP, 2024. [[Paper]](https://ieeexplore.ieee.org/abstract/document/10448446) [[Code]]() [[Website]](link)
+* **SD-NeRF: Towards Lifelike Talking Head Animation via Spatially-adaptive Dual-driven NeRFs** <br>
+Shen S, Li W, Huang X, et al. * <br>
+   IEEE Transactions on Multimedia, 2023. [[Paper]](https://ieeexplore.ieee.org/abstract/document/10229247) [[Code]]() [[Website]](link)
 
 
 
