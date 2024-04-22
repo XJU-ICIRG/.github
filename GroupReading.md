@@ -174,7 +174,7 @@ Xing J, Xia M, Zhang Y, et al. * <br>
 * **Sadtalker: Learning realistic 3d motion coefficients for stylized audio-driven single image talking face animation** <br>
 Zhang W, Cun X, Wang X, et al. * <br>
   CVPR, 2023. [[Paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhang_SadTalker_Learning_Realistic_3D_Motion_Coefficients_for_Stylized_Audio-Driven_Single_CVPR_2023_paper.pdf) [[Code]](https://github.com/OpenTalker/SadTalker) [[Website]](https://sadtalker.github.io/)
-  * **Learning Dynamic Facial Radiance Fields for Few-Shot Talking Head Synthesis** <br>
+* **Learning Dynamic Facial Radiance Fields for Few-Shot Talking Head Synthesis** <br>
 Shuai Shen, Wanhua Li, et al. * <br>
   ECCV, 2022. [[Paper]](https://arxiv.org/pdf/2207.11770.pdf) [[Code]](https://github.com/sstzal/DFRF) [[Website]](https://sstzal.github.io/DFRF/)
 * **Stereo Radiance Fields (SRF):Learning View Synthesis for Sparse Views of Novel Scenes** <br>
