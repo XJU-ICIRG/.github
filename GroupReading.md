@@ -88,6 +88,18 @@ ICASSP, 2024. [[Paper]](https://ieeexplore.ieee.org/abstract/document/10448173) 
 * **Prosody-Aware Speecht5 for Expressive Neural TTS** <br>
 *Yan Deng，Long Zhou，Yuanhao Yi，Shujie Liu，Lei He* <br>
 ICASSP, 2023. [[Paper]](https://ieeexplore.ieee.org/abstract/document/10096530) [[Code]](link) [[Website]](link)
+* **Mels-Tts : Multi-Emotion Multi-Lingual Multi-Speaker Text-To-Speech System Via Disentangled Style Tokens** <br>
+*Heejin Choi，Jae-Sung Bae，Joun Yeop Lee，Seongkyu Mun，Jihwan Lee，Hoon-Young Cho，Chanwoo Kim* <br>
+ICASSP, 2024. [[Paper]](https://ieeexplore.ieee.org/abstract/document/10446852) [[Code]](link) [[Website]](link)
+* **Style tokens: Unsupervised style modeling, control and transfer in end-to-end speech synthesis** <br>
+*Yuxuan Wang，Daisy Stanton，Yu Zhang，RJ-Skerry Ryan, Eric Battenberg, Joel Shor, Ying Xiao, Ye Jia, Fei Ren, Rif A* <br>
+International conference on machine learning, 2018. [[Paper]](https://proceedings.mlr.press/v80/wang18h.html?ref=https://githubhelp.com) [[Code]](link) [[Website]](link)
+* **VF-Taco2: Towards Fast and Lightweight Synthesis for Autoregressive Models with Variation Autoencoder and Feature Distillation** <br>
+*Yuhao Liu，Cheng Gong，Longbiao Wang，Xixin Wu，Qiuyu Liu，Jianwu Dang* <br>
+ICASSP, 2023. [[Paper]](https://ieeexplore.ieee.org/abstract/document/10095640) [[Code]](link) [[Website]](link)
+* **EmoMix: Emotion Mixing via Diffusion Models for Emotional Speech Synthesis** <br>
+*Haobin Tang, Xulong Zhang, Jianzong Wang, Ning Cheng, Jing Xiao* <br>
+INTERSPEECH, 2023. [[Paper]](https://www.isca-archive.org/interspeech_2023/tang23_interspeech.html) [[Code]](link) [[Website]](link)
 
 
 
