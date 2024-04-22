@@ -168,6 +168,12 @@ Fan Y, Lin Z, Saito J, et al. * <br>
 * **Dfa-nerf: Personalized talking head generation via disentangled face attributes neural rendering** <br>
 Yao S, Zhong R Z, Yan Y, et al. * <br>
   arXiv, 2022. [[Paper]](https://arxiv.org/pdf/2201.00791) [[Code]](link) [[Website]](link)
+* **Codetalker: Speech-driven 3d facial animation with discrete motion prior** <br>
+Xing J, Xia M, Zhang Y, et al. * <br>
+  CVPR, 2023. [[Paper]](http://openaccess.thecvf.com/content/CVPR2023/papers/Xing_CodeTalker_Speech-Driven_3D_Facial_Animation_With_Discrete_Motion_Prior_CVPR_2023_paper.pdf) [[Code]](https://github.com/Doubiiu/CodeTalker) [[Website]](https://doubiiu.github.io/projects/codetalker/)
+* **Sadtalker: Learning realistic 3d motion coefficients for stylized audio-driven single image talking face animation** <br>
+Zhang W, Cun X, Wang X, et al. * <br>
+  CVPR, 2023. [[Paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhang_SadTalker_Learning_Realistic_3D_Motion_Coefficients_for_Stylized_Audio-Driven_Single_CVPR_2023_paper.pdf) [[Code]](https://github.com/OpenTalker/SadTalker) [[Website]](https://sadtalker.github.io/)
 
 
 
