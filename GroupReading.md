@@ -146,10 +146,16 @@ Peng Z, Hu W, Shi Y, et al.* <br>
    CVPR, 2024. [[Paper]](https://arxiv.org/abs/2311.17590) [[Code]](https://github.com/ZiqiaoPeng/SyncTalk) [[Website]](https://ziqiaopeng.github.io/synctalk/)
 * **DT-NeRF: Decomposed Triplane-Hash Neural Radiance Fields For High-Fidelity Talking Portrait Synthesis** <br>
 Su Y, Wang S, Wang H.* <br>
-   ICASSP, 2024. [[Paper]](https://ieeexplore.ieee.org/abstract/document/10448446) [[Code]]() [[Website]](link)
+   ICASSP, 2024. [[Paper]](https://ieeexplore.ieee.org/abstract/document/10448446) [[Code]](link) [[Website]](link)
 * **SD-NeRF: Towards Lifelike Talking Head Animation via Spatially-adaptive Dual-driven NeRFs** <br>
 Shen S, Li W, Huang X, et al. * <br>
-   IEEE Transactions on Multimedia, 2023. [[Paper]](https://ieeexplore.ieee.org/abstract/document/10229247) [[Code]]() [[Website]](link)
+   IEEE Transactions on Multimedia, 2023. [[Paper]](https://ieeexplore.ieee.org/abstract/document/10229247) [[Code]](link) [[Website]](link)
+* **Faceformer: Speech-driven 3d facial animation with transformers** <br>
+Fan Y, Lin Z, Saito J, et al. * <br>
+   CVPR, 2022. [[Paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Fan_FaceFormer_Speech-Driven_3D_Facial_Animation_With_Transformers_CVPR_2022_paper.pdf) [[Code]](https://github.com/EvelynFan/FaceFormer) [[Website]](https://evelynfan.github.io/audio2face/)
+* **Dfa-nerf: Personalized talking head generation via disentangled face attributes neural rendering** <br>
+Yao S, Zhong R Z, Yan Y, et al. * <br>
+  arXiv, 2022. [[Paper]](https://arxiv.org/pdf/2201.00791) [[Code]](link) [[Website]](link)
 
 
 
