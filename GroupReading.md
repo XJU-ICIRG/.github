@@ -100,8 +100,12 @@ ICASSP, 2023. [[Paper]](https://ieeexplore.ieee.org/abstract/document/10095640) 
 * **EmoMix: Emotion Mixing via Diffusion Models for Emotional Speech Synthesis** <br>
 *Haobin Tang, Xulong Zhang, Jianzong Wang, Ning Cheng, Jing Xiao* <br>
 INTERSPEECH, 2023. [[Paper]](https://www.isca-archive.org/interspeech_2023/tang23_interspeech.html) [[Code]](link) [[Website]](link)
-
-
+* **StoryTTS: A Highly Expressive Text-to-Speech Dataset with Rich Textual Expressiveness Annotations** <br>
+*Sen Liu, Yiwei Guo, Xie Chen, Kai Yu* <br>
+ICASSP, 2024. [[Paper]](https://ieeexplore.ieee.org/abstract/document/10446023) [[Code]](link) [[Website]](link)
+* **Improving Language Model-Based Zero-Shot Text-to-Speech Synthesis with Multi-Scale Acoustic Prompts** <br>
+*Shun Lei, Yixuan Zhou, Liyang Chen, Dan Luo, Zhiyong Wu, Xixin Wu, Shiyin Kang, Tao Jiang, Yahui Zhou, Yuxing Han* <br>
+ICASSP, 2024. [[Paper]](https://ieeexplore.ieee.org/abstract/document/10447815) [[Code]](link) [[Website]](link)
 
 ### <a name="DigitalSimulators"></a> DigitalSimulators
 
