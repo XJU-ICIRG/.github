@@ -184,8 +184,12 @@ Shuai Shen, Wanhua Li, et al. * <br>
 * **Stereo Radiance Fields (SRF):Learning View Synthesis for Sparse Views of Novel Scenes** <br>
 Julian Chibane, Aayush Bansal, et al. * <br>
   CVPR, 2021. [[Paper]](https://virtualhumans.mpi-inf.mpg.de/papers/chibane21SRF/chibane21srf.pdf) [[Code]](https://github.com/jchibane/srf) [[Website]](https://virtualhumans.mpi-inf.mpg.de/srf/)
-
-
+* **Capture, learning, and synthesis of 3D speaking styles (VOCA)** <br>
+Cudeiro D, Bolkart T, Laidlaw C, et al.  * <br>
+  CVPR, 2019. [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Cudeiro_Capture_Learning_and_Synthesis_of_3D_Speaking_Styles_CVPR_2019_paper.pdf) [[Code]](https://github.com/TimoBolkart/voca) [[Website]](https://voca.is.tue.mpg.de/)
+* **Meshtalk: 3d face animation from speech using cross-modality disentanglement** <br>
+Richard A, Zollhöfer M, Wen Y, et al. * <br>
+  CVPR, 2021. [[Paper]](http://openaccess.thecvf.com/content/ICCV2021/papers/Richard_MeshTalk_3D_Face_Animation_From_Speech_Using_Cross-Modality_Disentanglement_ICCV_2021_paper.pdf) [[Code]](https://github.com/facebookresearch/meshtalk) [[Website]]()
 
 ### <a name="CamouflagedObjectDetection"></a> CamouflagedObjectDetection
 
