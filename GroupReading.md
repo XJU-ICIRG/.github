@@ -190,6 +190,12 @@ Cudeiro D, Bolkart T, Laidlaw C, et al.  * <br>
 * **Meshtalk: 3d face animation from speech using cross-modality disentanglement** <br>
 Richard A, Zollhöfer M, Wen Y, et al. * <br>
   CVPR, 2021. [[Paper]](http://openaccess.thecvf.com/content/ICCV2021/papers/Richard_MeshTalk_3D_Face_Animation_From_Speech_Using_Cross-Modality_Disentanglement_ICCV_2021_paper.pdf) [[Code]](https://github.com/facebookresearch/meshtalk) [[Website]]()
+* **Emotalk: Speech-driven emotional disentanglement for 3d face animation** <br>
+Peng Z, Wu H, Song Z, et al. * <br>
+  CVPR, 2023. [[Paper]]((http://openaccess.thecvf.com/content/ICCV2023/papers/Peng_EmoTalk_Speech-Driven_Emotional_Disentanglement_for_3D_Face_Animation_ICCV_2023_paper.pdf) [[Code]](https://github.com/psyai-net/EmoTalk_release) [[Website]](https://ziqiaopeng.github.io/emotalk/)
+* **Moda: Mapping-once audio-driven portrait animation with dual attentions** <br>
+Liu Y, Lin L, Yu F, et al. * <br>
+  CVPR, 2023. [[Paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Liu_MODA_Mapping-Once_Audio-driven_Portrait_Animation_with_Dual_Attentions_ICCV_2023_paper.pdf) [[Code]]() [[Website]](https://liuyunfei.net/projects/iccv23-moda/)
 
 ### <a name="CamouflagedObjectDetection"></a> CamouflagedObjectDetection
 
