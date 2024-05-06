@@ -106,6 +106,14 @@ ICASSP, 2024. [[Paper]](https://ieeexplore.ieee.org/abstract/document/10446023) 
 * **Improving Language Model-Based Zero-Shot Text-to-Speech Synthesis with Multi-Scale Acoustic Prompts** <br>
 *Shun Lei, Yixuan Zhou, Liyang Chen, Dan Luo, Zhiyong Wu, Xixin Wu, Shiyin Kang, Tao Jiang, Yahui Zhou, Yuxing Han* <br>
 ICASSP, 2024. [[Paper]](https://ieeexplore.ieee.org/abstract/document/10447815) [[Code]](link) [[Website]](link)
+* **PromptStyle: Controllable Style Transfer for Text-to-Speech with Natural Language Descriptions** <br>
+*Guanghou Liu, Yongmao Zhang,Yi Lei,Yunlin Chen,Rui Wang,Zhifei Li,Lei Xie* <br>
+INTERSPEECH, 2023. [[Paper]](https://www.isca-archive.org/interspeech_2023/liu23t_interspeech.pdf) [[Code]](link) [[Website]](link)
+* **Textrolspeech: A text style control speech corpus with codec language text-to-speech models** <br>
+*Shengpeng Ji, Jialong Zuo, Minghui Fang, Ziyue Jiang, Feiyang Chen, Xinyu Duan, Baoxing Huai, Zhou Zhao* <br>
+ICASSP, 2024. [[Paper]](https://ieeexplore.ieee.org/abstract/document/10445879) [[Code]](link) [[Website]](link)
+
+
 
 ### <a name="DigitalSimulators"></a> DigitalSimulators
 
