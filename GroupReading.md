@@ -204,6 +204,13 @@ Peng Z, Wu H, Song Z, et al. * <br>
 * **Moda: Mapping-once audio-driven portrait animation with dual attentions** <br>
 Liu Y, Lin L, Yu F, et al. * <br>
   CVPR, 2023. [[Paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Liu_MODA_Mapping-Once_Audio-driven_Portrait_Animation_with_Dual_Attentions_ICCV_2023_paper.pdf) [[Code]]() [[Website]](https://liuyunfei.net/projects/iccv23-moda/)
+* **3d gaussian splatting for real-time radiance field rendering** <br>
+Kerbl B, Kopanas G, Leimkühler T, et al. * <br>
+  ACM Transactions on Graphics, 2023. [[Paper]](https://inria.hal.science/hal-04088161v2) [[Code]](https://github.com/graphdeco-inria/gaussian-splatting) [[Website]]()
+* **GaussianTalker: Real-Time High-Fidelity Talking Head Synthesis with Audio-Driven 3D Gaussian Splatting** <br>
+Cho K, Lee J, Yoon H, et al. * <br>
+  arXiv , 2024. [[Paper]](https://arxiv.org/abs/2404.16012) [[Code]](https://github.com/KU-CVLAB/gaussiantalker) [[Website]](https://ku-cvlab.github.io/GaussianTalker/)
+
 
 ### <a name="CamouflagedObjectDetection"></a> CamouflagedObjectDetection
 
