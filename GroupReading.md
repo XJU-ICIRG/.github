@@ -222,6 +222,12 @@ Kerbl B, Kopanas G, Leimkühler T, et al. * <br>
 * **GaussianTalker: Real-Time High-Fidelity Talking Head Synthesis with Audio-Driven 3D Gaussian Splatting** <br>
 Cho K, Lee J, Yoon H, et al. * <br>
   arXiv , 2024. [[Paper]](https://arxiv.org/abs/2404.16012) [[Code]](https://github.com/KU-CVLAB/gaussiantalker) [[Website]](https://ku-cvlab.github.io/GaussianTalker/)
+* **4d gaussian splatting for real-time dynamic scene rendering** <br>
+Wu G, Yi T, Fang J, et al. * <br>
+  arXiv , 2023. [[Paper]](https://arxiv.org/pdf/2310.08528) [[Code]](https://github.com/hustvl/4DGaussians) [[Website]](https://guanjunwu.github.io/4dgs/)
+* **TalkingGaussian: Structure-Persistent 3D Talking Head Synthesis via Gaussian Splatting** <br>
+Li J, Zhang J, Bai X, et al. * <br>
+  arXiv , 2024. [[Paper]](https://arxiv.org/pdf/2404.15264) [[Code]](https://github.com/Fictionarry/TalkingGaussian) [[Website]](https://fictionarry.github.io/TalkingGaussian/)
 
 
 ### <a name="CamouflagedObjectDetection"></a> CamouflagedObjectDetection
