@@ -112,6 +112,18 @@ INTERSPEECH, 2023. [[Paper]](https://www.isca-archive.org/interspeech_2023/liu23
 * **Textrolspeech: A text style control speech corpus with codec language text-to-speech models** <br>
 *Shengpeng Ji, Jialong Zuo, Minghui Fang, Ziyue Jiang, Feiyang Chen, Xinyu Duan, Baoxing Huai, Zhou Zhao* <br>
 ICASSP, 2024. [[Paper]](https://ieeexplore.ieee.org/abstract/document/10445879) [[Code]](link) [[Website]](link)
+* **Enhancing Multilingual TTS with Voice Conversion Based Data Augmentation and Posterior Embedding** <br>
+*Hyun-Wook Yoon，Jin-Seob Kim，Ryuichi Yamamoto，Ryo Terashima，Chan-Ho Song，Jae-Min Kim，Eunwoo Song* <br>
+ICASSP, 2024. [[Paper]](https://ieeexplore.ieee.org/abstract/document/10448471) [[Code]](link) [[Website]](link)
+* **VQTTS: High-Fidelity Text-to-Speech Synthesis with Self-Supervised VQ Acoustic Feature** <br>
+*Chenpeng Du，Yiwei Guo，Xie Chen，Kai Yu* <br>
+INTERSPEECH, 2022. [[Paper]](https://www.isca-archive.org/interspeech_2022/du22b_interspeech.html) [[Code]](link) [[Website]](link)
+* **Matcha-TTS: A fast TTS architecture with conditional flow matching** <br>
+*Shivam Mehta，Ruibo Tu，Jonas Beskow，Éva Székely，Gustav Eje Henter* <br>
+ICASSP, 2024. [[Paper]](https://ieeexplore.ieee.org/abstract/document/10448291) [[Code]](link) [[Website]](link)
+* **Reflow-tts: A rectified flow model for high-fidelity text-to-speech** <br>
+*Wenhao Guan，Qi Su，Haodong Zhou，Shiyu Miao，Xingjia Xie，Lin Li，Qingyang Hong* <br>
+ICASSP, 2024. [[Paper]](https://ieeexplore.ieee.org/abstract/document/10447822) [[Code]](link) [[Website]](link)
 
 
 
