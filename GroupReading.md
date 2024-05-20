@@ -230,10 +230,10 @@ Li J, Zhang J, Bai X, et al. * <br>
   arXiv , 2024. [[Paper]](https://arxiv.org/pdf/2404.15264) [[Code]](https://github.com/Fictionarry/TalkingGaussian) [[Website]](https://fictionarry.github.io/TalkingGaussian/)
 * **CG-NeRF: Conditional Generative Neural Radiance Fields** <br>
 Kyungmin Jo*, Gyumin Shim*, et al. * <br>
-  AAAI， 2021. [[Paper]](https://arxiv.org/pdf/2112.03517) [[Code]]() [[Website]](https://arxiv.org/pdf/2112.03517)
+  AAAI, 2021. [[Paper]](https://arxiv.org/pdf/2112.03517) [[Code]]() [[Website]](https://arxiv.org/pdf/2112.03517)
 * **GRAF: Generative Radiance Fields for 3D-Aware Image Synthesis** <br>
 Katja Schwarz∗ Yiyi Liao∗, et al. * <br>
-  NeurIPS， 2020. [[Paper]](https://proceedings.neurips.cc/paper/2020/file/e92e1b476bb5262d793fd40931e0ed53-Paper.pdf) [[Code]](https://github.com/autonomousvision/graf) [[Website]](https://github.com/autonomousvision/graf)
+  NeurIPS, 2020. [[Paper]](https://proceedings.neurips.cc/paper/2020/file/e92e1b476bb5262d793fd40931e0ed53-Paper.pdf) [[Code]](https://github.com/autonomousvision/graf) [[Website]](https://github.com/autonomousvision/graf)
   
 
 
