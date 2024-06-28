@@ -248,8 +248,20 @@ Li J, Zhang J, Bai X, et al. * <br>
 Kyungmin Jo*, Gyumin Shim*, et al. * <br>
   AAAI, 2021. [[Paper]](https://arxiv.org/pdf/2112.03517) [[Code]]() [[Website]](https://arxiv.org/pdf/2112.03517)
 * **GRAF: Generative Radiance Fields for 3D-Aware Image Synthesis** <br>
-Katja Schwarz∗ Yiyi Liao∗, et al. * <br>
+Katja Schwarz*, Yiyi Liao*, et al. * <br>
   NeurIPS, 2020. [[Paper]](https://proceedings.neurips.cc/paper/2020/file/e92e1b476bb5262d793fd40931e0ed53-Paper.pdf) [[Code]](https://github.com/autonomousvision/graf) [[Website]](https://github.com/autonomousvision/graf)
+* **G-NeRF: Geometry-enhanced Novel View Synthesis from Single-View Images** <br>
+Zixiong Huang*, Qi Chen*, et al. * <br>
+  CVPR, 2024. [[Paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Huang_G-NeRF_Geometry-enhanced_Novel_View_Synthesis_from_Single-View_Images_CVPR_2024_paper.pdf) [[Code]]() [[Website]]()
+* **That’s What I Said:Fully-Controllable Talking Face Generation** <br>
+Youngjoon Jang*, Kyeongha Rho*, et al. * <br>
+  ACMM, 2023. [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3581783.3612587) [[Code]]() [[Website]]()
+* **Efficient Emotional Adaptation for Audio-Driven Talking-Head Generation** <br>
+  Yuan Gan*, Zongxin Yang*, et al. * <br>
+  ICCV, 2023. [[Paper]](https://arxiv.org/pdf/2309.04946) [[Code]](https://github.com/yuangan/EAT_code) [[Website]](https://yuangan.github.io/eat/)
+* **DREAM-Talk: Diffusion-based Realistic Emotional Audio-driven Method for Single Image Talking Face Generation** <br>
+  Chenxu Zhang*, Chao Wang*, et al. * <br>
+  arXiv, 2023. [[Paper]](https://arxiv.org/pdf/2312.13578) [[Code]]() [[Website]](https://magic-research.github.io/dream-talk/)
   
 
 
