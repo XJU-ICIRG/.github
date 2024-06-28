@@ -124,6 +124,22 @@ ICASSP, 2024. [[Paper]](https://ieeexplore.ieee.org/abstract/document/10448291) 
 * **Reflow-tts: A rectified flow model for high-fidelity text-to-speech** <br>
 *Wenhao Guan，Qi Su，Haodong Zhou，Shiyu Miao，Xingjia Xie，Lin Li，Qingyang Hong* <br>
 ICASSP, 2024. [[Paper]](https://ieeexplore.ieee.org/abstract/document/10447822) [[Code]](link) [[Website]](link)
+* **Hierarchical Emotion Prediction and Control in Text-to-Speech Synthesis** <br>
+*Sho Inoue，Kun Zhou，Shuai Wang，Haizhou Li* <br>
+ICASSP, 2024. [[Paper]](https://ieeexplore.ieee.org/abstract/document/10445996) [[Code]](link) [[Website]](link)
+* **Lightspeech: Lightweight and fast text to speech with neural architecture search** <br>
+*Renqian Luo，Xu Tan，Rui Wang，Tao Qin，Jinzhu Li，Sheng Zhao，Enhong Chen，Tie-Yan Liu* <br>
+ICASSP, 2021. [[Paper]](https://ieeexplore.ieee.org/abstract/document/9414403) [[Code]](link) [[Website]](link)
+* **DCTTS: Discrete Diffusion Model with Contrastive Learning for Text-to-Speech Generation** <br>
+*Zhichao Wu，Qiulin Li，Sixing Liu，Qun Yang* <br>
+ICASSP, 2024. [[Paper]](https://ieeexplore.ieee.org/abstract/document/10447661) [[Code]](link) [[Website]](link)
+* **DurIAN-E 2: Duration Informed Attention Network with Adaptive Variational Autoencoder and Adversarial Learning for Expressive Text-to-Speech Synthesis** <br>
+*Yu Gu，Qiushi Zhu，Guangzhi Lei，Chao Weng，Dan Su* <br>
+ICASSP, 2024. [[Paper]](https://ieeexplore.ieee.org/abstract/document/10448195) [[Code]](link) [[Website]](link)
+
+
+
+
 
 
 
