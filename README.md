@@ -95,9 +95,9 @@ Personal homepage: https://yyf17.github.io/
       <div align="center" width="100" height="150">
         <a href="" target="_blank" class="image">
           <span class="image fit">
-            <img src="./fig/wangyan.jpg" alt="王焱" width="100" height="100">
+            <img src="./fig/wushaohang.jpg" alt="吴少航" width="100" height="100">
           </span>
-          <h2>王焱</h2>
+          <h2>吴少航</h2>
           <h3>具身智能</h3>
         </a>
       </div>
@@ -106,9 +106,9 @@ Personal homepage: https://yyf17.github.io/
       <div align="center" width="100" height="150">
         <a href="" target="_blank" class="image">
           <span class="image fit">
-            <img src="./fig/jialuyuan.png" alt="贾路远" width="100" height="100">
+            <img src="./fig/liuteng。jpg" alt="刘腾" width="100" height="100">
           </span>
-          <h2>贾路远</h2>
+          <h2>刘腾</h2>
           <h3>具身智能</h3>
         </a>
       </div>
@@ -117,9 +117,9 @@ Personal homepage: https://yyf17.github.io/
       <div align="center" width="100" height="150">
         <a href="" target="_blank" class="image">
           <span class="image fit">
-            <img src="./fig/lijia.jpg" alt="李佳" width="100" height="100">
+            <img src="./fig/zhouxinyu.jpg" alt="周新宇" width="100" height="100">
           </span>
-          <h2>李佳</h2>
+          <h2>周新宇</h2>
           <h3>具身智能</h3>
         </a>
       </div>
