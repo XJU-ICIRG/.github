@@ -141,7 +141,7 @@ Personal homepage: https://yyf17.github.io/
       <div align="center" width="100" height="150">
         <a href="" target="_blank" class="image">
           <span class="image fit">
-            <img src="./fig/liushiqi.png" alt="刘世奇" width="100" height="100">
+            <img src="./fig/liushiqi.jpg" alt="刘世奇" width="100" height="100">
           </span>
           <h2>刘世奇</h2>
           <h3>具身智能(联合培养)</h3>
