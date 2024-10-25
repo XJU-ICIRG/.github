@@ -125,6 +125,41 @@ Personal homepage: https://yyf17.github.io/
       </div>
     </td>
   </tr>
+    <tr>
+        <td width="150" height="200">
+      <div align="center" width="100" height="150">
+        <a href="" target="_blank" class="image">
+          <span class="image fit">
+            <img src="./fig/wangyan.jpg" alt="王焱" width="100" height="100">
+          </span>
+          <h2>王焱</h2>
+          <h3>具身智能</h3>
+        </a>
+      </div>
+    </td>
+    <td width="150" height="200">
+      <div align="center" width="100" height="150">
+        <a href="" target="_blank" class="image">
+          <span class="image fit">
+            <img src="./fig/jialuyuan.png" alt="贾路远" width="100" height="100">
+          </span>
+          <h2>贾路远</h2>
+          <h3>具身智能</h3>
+        </a>
+      </div>
+    </td>
+    <td width="150" height="200">
+      <div align="center" width="100" height="150">
+        <a href="" target="_blank" class="image">
+          <span class="image fit">
+            <img src="./fig/lijia.jpg" alt="李佳" width="100" height="100">
+          </span>
+          <h2>李佳</h2>
+          <h3>具身智能</h3>
+        </a>
+      </div>
+    </td>
+  </tr>
 </table>
 ### 2023
 <table align="center" width=100% height=800px>
