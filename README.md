@@ -106,7 +106,7 @@ Personal homepage: https://yyf17.github.io/
       <div align="center" width="100" height="150">
         <a href="" target="_blank" class="image">
           <span class="image fit">
-            <img src="./fig/liuteng。jpg" alt="刘腾" width="100" height="100">
+            <img src="./fig/liuteng.jpg" alt="刘腾" width="100" height="100">
           </span>
           <h2>刘腾</h2>
           <h3>具身智能</h3>
