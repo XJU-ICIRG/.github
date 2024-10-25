@@ -89,17 +89,6 @@ Personal homepage: https://yyf17.github.io/
         </a>
       </div>
     </td>
-    <td width="150" height="200">
-      <div align="center" width="100" height="150">
-        <a href="" target="_blank" class="image">
-          <span class="image fit">
-            <img src="./fig/liuguangjin.jpg" alt="刘广进" width="100" height="100">
-          </span>
-          <h2>刘广进</h2>
-          <h3>具身智能</h3>
-        </a>
-      </div>
-    </td>
   </tr>
 </table>
 
