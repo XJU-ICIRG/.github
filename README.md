@@ -130,9 +130,9 @@ Personal homepage: https://yyf17.github.io/
       <div align="center" width="100" height="150">
         <a href="" target="_blank" class="image">
           <span class="image fit">
-            <img src="./fig/wangyan.jpg" alt="王焱" width="100" height="100">
+            <img src="./fig/zhanghailong.jpg" alt="张海龙" width="100" height="100">
           </span>
-          <h2>王焱</h2>
+          <h2>张海龙</h2>
           <h3>具身智能</h3>
         </a>
       </div>
@@ -141,10 +141,10 @@ Personal homepage: https://yyf17.github.io/
       <div align="center" width="100" height="150">
         <a href="" target="_blank" class="image">
           <span class="image fit">
-            <img src="./fig/jialuyuan.png" alt="贾路远" width="100" height="100">
+            <img src="./fig/liushiqi.png" alt="刘世奇" width="100" height="100">
           </span>
-          <h2>贾路远</h2>
-          <h3>具身智能</h3>
+          <h2>刘世奇</h2>
+          <h3>具身智能(联合培养)</h3>
         </a>
       </div>
     </td>
@@ -152,10 +152,10 @@ Personal homepage: https://yyf17.github.io/
       <div align="center" width="100" height="150">
         <a href="" target="_blank" class="image">
           <span class="image fit">
-            <img src="./fig/lijia.jpg" alt="李佳" width="100" height="100">
+            <img src="./fig/liuguangjin.jpg" alt="刘广进" width="100" height="100">
           </span>
-          <h2>李佳</h2>
-          <h3>具身智能</h3>
+          <h2>刘广进</h2>
+          <h3>具身智能(联合培养)</h3>
         </a>
       </div>
     </td>
