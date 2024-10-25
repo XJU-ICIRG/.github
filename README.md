@@ -54,61 +54,53 @@ Personal homepage: https://yyf17.github.io/
 ## master student
 
 ### 2024
-<table align="center" width=100% height=800px>
-
-<tr width=300, height=200>
-  <td width=150, height=200>
-      <div  align="center" width="100" , height=150>
-       <a href="" target="_blank" class="image">
-        <span class="image fit">
-         <img src="./fig/wangyan.jpg" alt="" width=100, height=100>
-        </span>
-        <h2>王焱 <br> </h2>
-        <h3>具身智能<br> </h3>
-       </a>
+<table align="center" width="100%" height="800px">
+  <tr>
+    <td width="150" height="200">
+      <div align="center" width="100" height="150">
+        <a href="" target="_blank" class="image">
+          <span class="image fit">
+            <img src="./fig/wangyan.jpg" alt="王焱" width="100" height="100">
+          </span>
+          <h2>王焱</h2>
+          <h3>具身智能</h3>
+        </a>
       </div>
-  </td>
-
-  <td width=150, height=200>
-      <div  align="center" width="100" , height=150>
-       <a href="" target="_blank" class="image">
-        <span class="image fit">
-         <img src="./fig/jialuyuan.png" alt="" width=100, height=100>
-        </span>
-        <h2>贾路远 <br> </h2>
-        <h3>具身智能 <br> </h3>
-       </a>
+    </td>
+    <td width="150" height="200">
+      <div align="center" width="100" height="150">
+        <a href="" target="_blank" class="image">
+          <span class="image fit">
+            <img src="./fig/jialuyuan.png" alt="贾路远" width="100" height="100">
+          </span>
+          <h2>贾路远</h2>
+          <h3>具身智能</h3>
+        </a>
       </div>
-  </td>
-  
-</tr>
-
-<tr width=300, height=200>
-  <td width=150, height=200>
-      <div  align="center" width="100" , height=150>
-       <a href="" target="_blank" class="image">
-        <span class="image fit">
-         <img src="./fig/lijia.jpg" alt="" width=100, height=100>
-        </span>
-        <h2>李佳 <br> </h2>
-        <h3>具身智能 <br> </h3>
-       </a>
+    </td>
+    <td width="150" height="200">
+      <div align="center" width="100" height="150">
+        <a href="" target="_blank" class="image">
+          <span class="image fit">
+            <img src="./fig/lijia.jpg" alt="李佳" width="100" height="100">
+          </span>
+          <h2>李佳</h2>
+          <h3>具身智能</h3>
+        </a>
       </div>
-  </td>
-
-  <td width=150, height=200>
-      <div  align="center" width="100" , height=150>
-       <a href="" target="_blank" class="image">
-        <span class="image fit">
-         <img src="./fig/liuguangjin.jpg" alt="" width=100, height=100>
-        </span>
-        <h2>刘广进 <br> </h2>
-        <h3>具身智能 <br> </h3>
-       </a>
+    </td>
+    <td width="150" height="200">
+      <div align="center" width="100" height="150">
+        <a href="" target="_blank" class="image">
+          <span class="image fit">
+            <img src="./fig/liuguangjin.jpg" alt="刘广进" width="100" height="100">
+          </span>
+          <h2>刘广进</h2>
+          <h3>具身智能</h3>
+        </a>
       </div>
-  </td>
-</tr>
- 
+    </td>
+  </tr>
 </table>
 
 <table align="center" width=100% height=800px>
