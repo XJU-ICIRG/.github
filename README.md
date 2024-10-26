@@ -62,7 +62,7 @@ Personal homepage: https://yyf17.github.io/
           <span class="image fit">
             <img src="./fig/wangyan.jpg" alt="王焱" width="100" height="100">
           </span>
-          <h2>王焱</h2>
+          <h2>王燚</h2>
           <h3>具身智能</h3>
         </a>
       </div>
